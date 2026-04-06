@@ -1,40 +1,32 @@
-# Anmoll Wadhwa — Senior PM who ships with AI.
-### I use Claude Code the way engineers use terminals.
+# Hey, I'm Anmoll 👋
+
+Product builder. I ship fast and think in systems.
+
+Currently building at **[LinkWhisper](https://linkwhisper.com)** — a WordPress internal linking plugin used by 50k+ sites.
 
 ---
 
-## What I work on
+## What I'm Building
 
-- **AI-assisted product builds** — using Claude Code to design, spec, and ship internal tools and dashboards end-to-end
-- **Growth & creator products** — scaled ZZAZZ from 1M to 90M MAU across 70 countries, 700M content impressions
-- **Research workflows** — NotebookLM + Claude Code pipelines for product research, synthesis, and decision-making
-- **MCP integrations** — connecting Notion, NotebookLM, and other tools to automate PM workflows
-- **Teaching product thinking** — TA at Masai, working with 200+ learners on breaking into product
-
----
-
-## About me
-
-Senior PM at LinkWhisper. Before that, built creator and content products at scale — 90M users, 10,000 creators, 70 countries. MBA from IU International + London South Bank University.
-
-I'm based in New Delhi. Most of my recent work sits at the intersection of product strategy and AI tooling — I use Claude Code daily to go from idea to working prototype without waiting on engineering cycles.
+| Project | What it is | Stack |
+|---|---|---|
+| [linkwhisper-support-dash](https://github.com/Anmoll-W/linkwhisper-support-dash) | Support ops dashboard for LinkWhisper | Next.js · Drizzle · Supabase |
+| [LinkWhisper-Plugin](https://github.com/Anmoll-W/LinkWhisper-Plugin) | Plugin admin dashboard UI | React · Vite · shadcn/ui |
+| [chalo](https://github.com/Anmoll-W/chalo) | AI group trip coordinator bot (Telegram) | Next.js · grammY · Claude API |
+| [anmoll-portfolio](https://github.com/Anmoll-W/anmoll-portfolio) | Personal site | React · Vite · Supabase |
 
 ---
 
-## Current builds
+## Stack I Reach For
 
-**[anmoll-builds-systems](https://github.com/Anmoll07/anmoll-builds-systems)** — Personal portfolio and project tracker. Built with React, Vite, and Tailwind via Claude Code. Documents what I'm building and how.
-
-**[LinkWhisper Dashboard](#)** — Internal analytics and management dashboard for the LinkWhisper product team. Designed and built end-to-end using Claude Code.
+`TypeScript` `React` `Next.js` `Supabase` `Vercel` `Tailwind` `Claude API`
 
 ---
 
-## Tech stack
+## Thinking
 
-`Claude Code` `Notion` `NotebookLM` `React` `Vite` `Tailwind` `GitHub` `Vercel` `SQL` `Mixpanel` `GA` `Tableau` `Figma`
+I write about product, AI, and systems at [LinkedIn](https://linkedin.com/in/anmoll07).
 
 ---
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/anmoll-wadhwa/) · [Portfolio](https://github.com/Anmoll07/anmoll-builds-systems) · anmollwadhwa7@gmail.com
+*Building in public. DMs open.*
