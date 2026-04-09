@@ -34,10 +34,6 @@ I believe the best PMs leave things measurably better and keep asking why it wor
 
 Open source. You can read the code and the thinking behind it.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **[ChalotripBot](https://github.com/Anmoll-W/chalotripbot)**
 
 `Next.js` `grammY` `Claude API` `Supabase` `Vercel`
@@ -47,23 +43,6 @@ Open source. You can read the code and the thinking behind it.
 **What I built:** A Telegram bot that handles the full trip lifecycle. Collects private budgets, generates AI itineraries, splits bills, and settles debts inside one group chat.
 
 **Why it matters:** First end-to-end AI product I designed, spec'd, and shipped alone.
-
-</td>
-<td width="50%" valign="top">
-
-**[anmoll-builds-systems](https://github.com/Anmoll-W/anmoll-builds-systems)**
-
-`React` `Vite` `TypeScript` `Tailwind` `Supabase`
-
-**Problem:** PM portfolios are either a LinkedIn copy-paste or a Notion doc nobody reads.
-
-**What I built:** A working portfolio with two interactive tools. A Decision Log with 8 real product calls where you guess the outcome, and a Tech Fluency explainer built for PMs.
-
-**Why it matters:** Shows PM thinking in a format people actually interact with.
-
-</td>
-</tr>
-</table>
 
 ---
 
