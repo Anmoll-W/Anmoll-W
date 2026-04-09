@@ -1,20 +1,20 @@
-```
-anmoll@linkwhisper ~ % whoami
-
-Name ............. Anmoll Wadhwa
-Role ............. Senior Product Manager
-Scale ............ 1M to 90M MAU across 70 countries
-Building ......... AI-powered SEO at LinkWhisper
-Stack ............ Claude Code, Supabase, Vercel
-Status ........... Shipping, mentoring, still learning
+```yaml
+Name:     Anmoll Wadhwa
+Role:     Senior Product Manager
+Scale:    1M to 90M MAU
+Building: AI-powered SEO at LinkWhisper
+Stack:    Claude Code, Supabase, Vercel
+Status:   Shipping, mentoring, still learning
 ```
 
 ---
 
-> I scaled a platform to 90M users.
+## About
+
+> I scaled a platform to 90M users.  
 > I am still figuring out what great product looks like.
 
-Senior PM with 7 years building across consumer scale, creator ecosystems, and AI infrastructure. Grew ZZAZZ from 1M to 90M MAU across 70 countries. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
+Senior PM with 7 years building across consumer scale, creator ecosystems, and AI infrastructure. Grew ZZAZZ from 1M to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
 
 I believe the best PMs leave things measurably better and keep asking why it worked.
 
@@ -22,17 +22,11 @@ I believe the best PMs leave things measurably better and keep asking why it wor
 
 ## Stack I Reach For
 
-**AI Tools**
-`Claude Code` `ChatGPT` `Lovable` `NotebookLM` `Cursor`
+**AI Tools** &nbsp; `Claude Code` `ChatGPT` `Lovable` `NotebookLM` `Cursor`
 
-**Dev**
-`React` `TypeScript` `Supabase` `Vercel` `Vite`
+**Analytics** &nbsp; `Mixpanel` `SQL` `Google Analytics` `Tableau`
 
-**Analytics**
-`Mixpanel` `SQL` `Google Analytics` `Tableau`
-
-**Product**
-`Figma` `Notion` `Jira` `Confluence`
+**Product** &nbsp; `Figma` `Notion` `Jira` `Confluence`
 
 ---
 
@@ -40,7 +34,12 @@ I believe the best PMs leave things measurably better and keep asking why it wor
 
 Open source. You can read the code and the thinking behind it.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **[ChalotripBot](https://github.com/Anmoll-W/chalotripbot)**
+
 `Next.js` `grammY` `Claude API` `Supabase` `Vercel`
 
 **Problem:** Group trips fall apart in chat chaos. Budgets, itineraries, bill splits, all handled manually.
@@ -49,9 +48,11 @@ Open source. You can read the code and the thinking behind it.
 
 **Why it matters:** First end-to-end AI product I designed, spec'd, and shipped alone.
 
----
+</td>
+<td width="50%" valign="top">
 
 **[anmoll-builds-systems](https://github.com/Anmoll-W/anmoll-builds-systems)**
+
 `React` `Vite` `TypeScript` `Tailwind` `Supabase`
 
 **Problem:** PM portfolios are either a LinkedIn copy-paste or a Notion doc nobody reads.
@@ -60,23 +61,28 @@ Open source. You can read the code and the thinking behind it.
 
 **Why it matters:** Shows PM thinking in a format people actually interact with.
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## Where I Have Worked
 
-**Senior Product Manager, LinkWhisper** `January 2026 to Present`
-
-Steering AI-powered SEO product direction through user research and behavioral analytics. Driving affiliate re-engagement by identifying drop-off patterns. Automated support workflows and cut resolution effort by 50%.
-
-`SEO` `AI` `SaaS` `B2B` `Roadmapping` `Claude Code` `Lovable` `Supabase`
+> [!NOTE]
+> **Senior Product Manager, LinkWhisper** &nbsp; `January 2026 to Present`
+>
+> Steering AI-powered SEO product direction through user research and behavioral analytics. Driving affiliate re-engagement by identifying drop-off patterns. Automated support workflows and cut resolution effort by 50%.
+>
+> ![SEO](https://img.shields.io/badge/SEO-0a66c2?style=flat-square&logoColor=white) ![AI](https://img.shields.io/badge/AI-0a66c2?style=flat-square&logoColor=white) ![SaaS](https://img.shields.io/badge/SaaS-0a66c2?style=flat-square&logoColor=white) ![B2B](https://img.shields.io/badge/B2B-0a66c2?style=flat-square&logoColor=white) ![Roadmapping](https://img.shields.io/badge/Roadmapping-0a66c2?style=flat-square&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-0a66c2?style=flat-square&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-0a66c2?style=flat-square&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-0a66c2?style=flat-square&logoColor=white)
 
 ---
 
 **Senior Product Manager to Product Manager, ZZAZZ.AI** `2020 to 2025`
 
-Scaled creator platform from 1M to 90M MAU across 70 countries. Led cross-functional squads of 4 PMs and 3 designers. Reported directly to CEO. Integrated LLM-driven analytics achieving 20% faster insight retrieval.
+Scaled creator platform from 1M to 90M MAU. Led cross-functional squads of 4 PMs and 3 designers. Reported directly to CEO. Integrated LLM-driven analytics achieving 20% faster insight retrieval.
 
-`Consumer` `Growth` `Creator Economy` `AI` `LLM` `Figma` `Mixpanel` `Mobile`
+![Consumer](https://img.shields.io/badge/Consumer-4a4a6a?style=flat-square&logoColor=white) ![Growth](https://img.shields.io/badge/Growth-4a4a6a?style=flat-square&logoColor=white) ![Creator Economy](https://img.shields.io/badge/Creator%20Economy-4a4a6a?style=flat-square&logoColor=white) ![AI](https://img.shields.io/badge/AI-4a4a6a?style=flat-square&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-4a4a6a?style=flat-square&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-4a4a6a?style=flat-square&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-4a4a6a?style=flat-square&logoColor=white) ![Mobile](https://img.shields.io/badge/Mobile-4a4a6a?style=flat-square&logoColor=white)
 
 ---
 
@@ -84,7 +90,7 @@ Scaled creator platform from 1M to 90M MAU across 70 countries. Led cross-functi
 
 Mentoring 200 plus aspiring PMs on product fundamentals, frameworks, and execution. Rated 4.5 out of 5 across cohorts.
 
-`Mentorship` `PM Education` `Coaching` `Curriculum Design`
+![Mentorship](https://img.shields.io/badge/Mentorship-4a4a6a?style=flat-square&logoColor=white) ![PM Education](https://img.shields.io/badge/PM%20Education-4a4a6a?style=flat-square&logoColor=white) ![Coaching](https://img.shields.io/badge/Coaching-4a4a6a?style=flat-square&logoColor=white) ![Curriculum Design](https://img.shields.io/badge/Curriculum%20Design-4a4a6a?style=flat-square&logoColor=white)
 
 ---
 
@@ -92,7 +98,7 @@ Mentoring 200 plus aspiring PMs on product fundamentals, frameworks, and executi
 
 Led end-to-end design and launch of Travel Cost Calculator. Executed digital campaigns reaching 300K plus users and accelerating lead conversions.
 
-`Consumer` `B2C` `Feature Launch` `Go to Market` `Google Analytics`
+![Consumer](https://img.shields.io/badge/Consumer-4a4a6a?style=flat-square&logoColor=white) ![B2C](https://img.shields.io/badge/B2C-4a4a6a?style=flat-square&logoColor=white) ![Feature Launch](https://img.shields.io/badge/Feature%20Launch-4a4a6a?style=flat-square&logoColor=white) ![Go to Market](https://img.shields.io/badge/Go%20to%20Market-4a4a6a?style=flat-square&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-4a4a6a?style=flat-square&logoColor=white)
 
 ---
 
@@ -100,7 +106,7 @@ Led end-to-end design and launch of Travel Cost Calculator. Executed digital cam
 
 Built a travel platform from zero to one using SEO-led strategies. Achieved 10% monthly user growth and 15 plus partnerships within 2 months.
 
-`Zero to One` `SEO` `Growth` `Partnerships`
+![Zero to One](https://img.shields.io/badge/Zero%20to%20One-4a4a6a?style=flat-square&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-4a4a6a?style=flat-square&logoColor=white) ![Growth](https://img.shields.io/badge/Growth-4a4a6a?style=flat-square&logoColor=white) ![Partnerships](https://img.shields.io/badge/Partnerships-4a4a6a?style=flat-square&logoColor=white)
 
 ---
 
@@ -118,26 +124,18 @@ I write on LinkedIn daily, covering product, AI, and how I think about building 
 
 ## Education and Certifications
 
-**MBA, Dual Degree**
-IU International University of Applied Sciences, Germany and London South Bank University, UK (2024)
-
-**Bachelor of Business Administration**
-Rukmini Devi Institute of Advanced Studies, GGSIPU, New Delhi (2019)
+| | |
+|---|---|
+| **MBA, Dual Degree** | IU International University of Applied Sciences, Germany and London South Bank University, UK (2024) |
+| **Bachelor of Business Administration** | Rukmini Devi Institute of Advanced Studies, GGSIPU, New Delhi (2019) |
 
 **Certifications**
-`AI First PM, Rethink Systems` `ChatGPT and AI Agents, Growth School` `Generative AI for PMs, Growth School` `Introduction to Generative AI, Google Cloud` `Certified PM and Tech PM, Brightigo`
 
----
-
-## In Their Words
-
-> "He tackles every challenge head-on, never viewing failure as a setback but rather as a chance to launch into something better. Anmoll's passion for his work and his focus on continuous improvement really set him apart as a Product Manager."
->
-> Yogesh Joshi, 0-1 AI Operator, Ex-Alibaba (managed Anmoll directly)
-
-> "Ridiculously patient is what comes to mind on thinking of Anmoll. Young but eager to learn almost everything. He keeps asking me if he is a good Product Manager, to which I say that he has taken the right path. As a team member, Anmoll earns my highest recommendation."
->
-> Sajal Agarwal, Senior Product Manager, Platforms and APIs (managed Anmoll directly)
+- AI First PM, Rethink Systems
+- ChatGPT and AI Agents, Growth School
+- Generative AI for PMs, Growth School
+- Introduction to Generative AI, Google Cloud
+- Certified PM and Tech PM, Brightigo
 
 ---
 
@@ -145,4 +143,4 @@ Rukmini Devi Institute of Advanced Studies, GGSIPU, New Delhi (2019)
 
 [📄 Download Resume](https://drive.google.com/file/d/1-lITIsq58-ES7HUOTGP16FVqbtyQcw6A/view?usp=sharing) &nbsp; [LinkedIn](https://www.linkedin.com/in/anmoll-wadhwa/)
 
-Open to senior PM roles, AI product advisory, and interesting builds. New Delhi, remote-friendly.
+Got a product challenge? Let's talk. If you are building something ambitious and need a PM who has done this at scale, I would like to hear about it.
