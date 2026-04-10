@@ -73,6 +73,8 @@
 
 I believe the best PMs leave things measurably better — and keep asking why it worked.
 
+<br clear="right">
+
 ---
 
 ## Career
