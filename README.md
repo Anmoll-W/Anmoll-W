@@ -1,10 +1,47 @@
-<table align="right" width="290" cellpadding="6" cellspacing="0" border="1">
+<table>
+<tr>
+<td valign="top">
+
+<h1>Anmoll Wadhwa</h1>
+
+<blockquote><em>This article is about the product manager. For the travel blog, see <a href="#the-crazy-explorer">The Crazy Explorer</a>.</em></blockquote>
+
+<details>
+<summary><b>Contents</b> &nbsp;[<kbd>show</kbd>]</summary>
+
+1. [About](#about)
+2. [Career](#career)
+   - 2.1 [LinkWhisper](#linkwhisper-2026present)
+   - 2.2 [ZZAZZ.AI](#zzazzai-20202025)
+   - 2.3 [Masai School](#masai-school-2025present)
+   - 2.4 [Hello Travel India](#hello-travel-india-20192020)
+   - 2.5 [The Crazy Explorer](#the-crazy-explorer)
+3. [Work That Shipped](#work-that-shipped)
+4. [Tools and Stack](#tools-and-stack)
+5. [Thinking in Public](#thinking-in-public)
+6. [Education](#education)
+7. [Certifications](#certifications)
+8. [See Also](#see-also)
+9. [External Links](#external-links)
+
+</details>
+
+<h2>About</h2>
+
+<p><b>Anmoll Wadhwa</b> is a Senior Product Manager with seven years of experience building consumer platforms, creator ecosystems, and AI-native tools. I scaled ZZAZZ from 1M to 90M monthly active users. I am now at LinkWhisper, shaping AI-powered SEO products, and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.</p>
+
+<p>I believe the best PMs leave things measurably better — and keep asking why it worked.</p>
+
+</td>
+<td valign="top" width="290">
+
+<table border="1" cellpadding="6" cellspacing="0" width="290">
   <tr>
     <td align="center" colspan="2"><b>Anmoll Wadhwa</b></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/Anmoll-W/Anmoll-W/main/assets/headshot.png" width="278" alt="Anmoll Wadhwa"/>
+      <img src="https://raw.githubusercontent.com/Anmoll-W/Anmoll-W/main/assets/headshot.png" width="270" alt="Anmoll Wadhwa"/>
     </td>
   </tr>
   <tr>
@@ -41,39 +78,9 @@
   </tr>
 </table>
 
-# Anmoll Wadhwa
-
-> *This article is about the product manager. For the travel blog, see [The Crazy Explorer](#the-crazy-explorer).*
-
-<details>
-<summary><b>Contents</b> &nbsp;[<kbd>show</kbd>]</summary>
-
-1. [About](#about)
-2. [Career](#career)
-   - 2.1 [LinkWhisper](#linkwhisper-2026present)
-   - 2.2 [ZZAZZ.AI](#zzazzai-20202025)
-   - 2.3 [Masai School](#masai-school-2025present)
-   - 2.4 [Hello Travel India](#hello-travel-india-20192020)
-   - 2.5 [The Crazy Explorer](#the-crazy-explorer)
-3. [Work That Shipped](#work-that-shipped)
-4. [Tools and Stack](#tools-and-stack)
-5. [Thinking in Public](#thinking-in-public)
-6. [Education](#education)
-7. [Certifications](#certifications)
-8. [See Also](#see-also)
-9. [External Links](#external-links)
-
-</details>
-
----
-
-## About
-
-**Anmoll Wadhwa** is a Senior Product Manager with seven years of experience building consumer platforms, creator ecosystems, and AI-native tools. I scaled ZZAZZ from 1M to 90M monthly active users. I am now at LinkWhisper, shaping AI-powered SEO products, and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
-
-I believe the best PMs leave things measurably better — and keep asking why it worked.
-
-<br clear="right">
+</td>
+</tr>
+</table>
 
 ---
 
