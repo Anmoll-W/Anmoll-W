@@ -1,5 +1,9 @@
+# Anmoll Wadhwa
+
+> *This is the main page. For projects, see [Work That Shipped](#work-that-shipped). For writing, see [Learning in Public](https://github.com/Anmoll-W/blog). For any specific project, navigate from the [Projects Directory](#projects-directory).*
+
 <table align="right" width="340">
-<tr><th colspan="2" align="center">Anmoll Wadhwa</th></tr>
+<tr><th colspan="2" align="center">Senior Product Manager</th></tr>
 <tr><td colspan="2" align="center"><em>Senior Product Manager</em></td></tr>
 <tr><td><b>Experience</b></td><td>7 years</td></tr>
 <tr><td><b>Current</b></td><td>LinkWhisper · AI-powered SEO</td></tr>
@@ -10,10 +14,6 @@
 <tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/anmoll-wadhwa/">anmoll-wadhwa</a></td></tr>
 <tr><td><b>Resume</b></td><td><a href="https://drive.google.com/file/d/1-lITIsq58-ES7HUOTGP16FVqbtyQcw6A/view?usp=sharing">Download PDF</a></td></tr>
 </table>
-
-> *This is the main page. For projects, see [Work That Shipped](#work-that-shipped). For writing, see [Blog](https://github.com/Anmoll-W/blog). For any specific project, navigate from the [Projects Directory](#projects-directory).*
-
-# Anmoll Wadhwa
 
 Senior PM with 7 years building consumer platforms, creator ecosystems, and AI infrastructure. Grew ZZAZZ from 1M to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products — and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
 
@@ -27,9 +27,10 @@ I believe the best PMs leave things measurably better — and keep asking why it
 - [Career](#career)
 - [Work That Shipped](#work-that-shipped)
 - [Projects Directory](#projects-directory)
+- [Open Source](#open-source)
 - [Writing](#writing)
 - [Stack](#stack)
-- [Education and Certifications](#education-and-certifications)
+- [Background](#background)
 - [Thinking in Public](#thinking-in-public)
 - [See Also](#see-also)
 - [Get in Touch](#get-in-touch)
@@ -54,15 +55,27 @@ I believe the best PMs leave things measurably better — and keep asking why it
 
 ### Projects Directory
 
-| Project | Visibility | Stack | Status | What It Does |
-|---------|-----------|-------|--------|--------------|
-| [ChalotripBot](https://github.com/Anmoll-W/chalo-trip-bot) 🔒 | Private | Next.js · grammY · Claude API · Supabase · Vercel | Shipped (MVP) | AI Telegram bot that coordinates group trips end-to-end — budgets, itineraries, bill splits, debt settlement |
-| [Blog](https://github.com/Anmoll-W/blog) | Public | Markdown | Active · 22 posts | Writing about systems, silent bugs, and shipping with AI tools |
-| [prompt-generator-skill](https://github.com/Anmoll-W/prompt-generator-skill) | Public | Claude Code Skill | Released | Transforms a role title into a production-ready XML-structured prompt · ~75% token reduction |
-| [linkwhisper-support-dash](https://github.com/Anmoll-W/linkwhisper-support-dash) 🔒 | Private | Next.js · Supabase · Drizzle · Vercel | Live | Real-time support operations dashboard — ticket lifecycle, SLA metrics, KPIs · [live](https://support-dash-ruby.vercel.app) |
-| [linkwhisper-plugin-ui](https://github.com/Anmoll-W/linkwhisper-plugin-ui) 🔒 | Private | React · Vite · TypeScript · shadcn/ui | Active | UX prototype for the LinkWhisper WordPress plugin — 11 dashboard pages, design iteration before PHP production |
+| Project | Stack | What It Does |
+|---------|-------|--------------|
+| [ChalotripBot](https://github.com/Anmoll-W/chalo-trip-bot) 🔒 | Next.js · grammY · Claude API · Supabase · Vercel | AI Telegram bot — group trip planning, budgets, bill splits |
+| [Blog](https://github.com/Anmoll-W/blog) | Markdown | Writing on systems, silent bugs, shipping with AI tools |
+| [prompt-generator-skill](https://github.com/Anmoll-W/prompt-generator-skill) | Claude Code Skill | Transforms a role title into a structured XML prompt |
+| [linkwhisper-support-dash](https://github.com/Anmoll-W/linkwhisper-support-dash) 🔒 | Next.js · Supabase · Drizzle · Vercel | Live — support ticket dashboard, SLA metrics, KPIs |
+| [linkwhisper-plugin-ui](https://github.com/Anmoll-W/linkwhisper-plugin-ui) 🔒 | React · Vite · TypeScript · shadcn/ui | Active — React prototype of 11 WordPress plugin pages |
 
 > 🔒 Private repos: code is not public but the build story is — see [Writing](#writing) for posts on each project.
+
+---
+
+## Open Source
+
+One public, reusable tool — open for use and contribution.
+
+| Project | What It Does | Install |
+|---------|-------------|---------|
+| [prompt-generator-skill](https://github.com/Anmoll-W/prompt-generator-skill) | Transforms a role title into a production-ready XML-structured prompt · ~75% token reduction | Claude Code skill |
+
+All other projects are internal tools. Code not public; build stories are in [Learning in Public](https://github.com/Anmoll-W/blog).
 
 ---
 
@@ -85,31 +98,31 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 ## Stack
 
-| Category | Tools |
-|----------|-------|
-| **AI & LLMs** | Claude Code · Claude API · ChatGPT · Cursor · Lovable · NotebookLM |
-| **Build** | Next.js · React · TypeScript · Supabase · Vercel · Drizzle ORM · Tailwind |
-| **Analytics** | Mixpanel · SQL · Google Analytics · Tableau |
-| **Product** | Figma · Jira · Confluence · Obsidian |
+**AI & LLMs**  
+![Claude Code](https://img.shields.io/badge/Claude%20Code-24292f?style=flat-square) ![Claude API](https://img.shields.io/badge/Claude%20API-7b2ff7?style=flat-square) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-24292f?style=flat-square) ![Lovable](https://img.shields.io/badge/Lovable-e36209?style=flat-square) ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square)
+
+**Build**  
+![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square) ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square)
+
+**Analytics**  
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+
+**Product**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square)
 
 ---
 
-## Education and Certifications
+## Background
+
+Dual MBA across two institutions (Germany + UK); BBA from GGSIPU, New Delhi. All post-grad certifications at the AI × product intersection.
 
 | Degree | Institution | Year |
 |--------|------------|------|
 | **MBA, Dual Degree** | IU International University of Applied Sciences, Germany + London South Bank University, UK | 2024 |
 | **BBA** | Rukmini Devi Institute of Advanced Studies, GGSIPU, New Delhi | 2019 |
 
-**Certifications**
-
-| Certification | Issuer |
-|--------------|--------|
-| AI First PM | Rethink Systems |
-| ChatGPT and AI Agents | Growth School |
-| Generative AI for PMs | Growth School |
-| Introduction to Generative AI | Google Cloud |
-| Certified PM and Tech PM | Brightigo |
+**Certifications**  
+![AI First PM](https://img.shields.io/badge/AI%20First%20PM-Rethink%20Systems-0a66c2?style=flat-square) ![ChatGPT & AI Agents](https://img.shields.io/badge/ChatGPT%20%26%20AI%20Agents-Growth%20School-10a37f?style=flat-square) ![Generative AI for PMs](https://img.shields.io/badge/Generative%20AI%20for%20PMs-Growth%20School-10a37f?style=flat-square) ![Intro to Generative AI](https://img.shields.io/badge/Intro%20to%20Generative%20AI-Google%20Cloud-4285F4?style=flat-square) ![Certified PM](https://img.shields.io/badge/Certified%20PM%20%26%20Tech%20PM-Brightigo-24292f?style=flat-square)
 
 ---
 
@@ -149,4 +162,4 @@ Building something ambitious and need a PM who has done this at scale? I would l
 ![Category: AI](https://img.shields.io/badge/Category-AI-7b2ff7?style=flat-square)
 ![Category: Consumer Scale](https://img.shields.io/badge/Category-Consumer%20Scale-2ea44f?style=flat-square)
 ![Category: Creator Economy](https://img.shields.io/badge/Category-Creator%20Economy-e36209?style=flat-square)
-![Building in Public](https://img.shields.io/badge/Building%20in%20Public-24292f?style=flat-square)
+![Learning in Public](https://img.shields.io/badge/Learning%20in%20Public-24292f?style=flat-square)
