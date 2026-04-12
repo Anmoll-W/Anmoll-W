@@ -12,7 +12,7 @@ Senior PM who grew ZZAZZ from 0 to 90M MAU. Now at LinkWhisper, shaping AI-power
 
 ---
 
-### Learning in Public
+### Learning in Public (**[Anmoll-W/blog](https://github.com/Anmoll-W/blog)**)
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
@@ -26,8 +26,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 | [Building an AI Agent Team](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-building-an-ai-agent-team.md) | Building an 11-agent coordinated persona system: from isolated prompts to a team with memory | Apr 10 |
 
 **Series:** [Silent Failures](https://github.com/Anmoll-W/blog/blob/main/series/silent-failures.md) · [Vault as OS](https://github.com/Anmoll-W/blog/blob/main/series/vault-as-os.md) · [GitHub is Your Portfolio](https://github.com/Anmoll-W/blog/blob/main/series/github-is-your-portfolio.md) · [Building ChalotripBot](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)
-
-Full index: **[Anmoll-W/blog](https://github.com/Anmoll-W/blog)**
 
 ---
 
