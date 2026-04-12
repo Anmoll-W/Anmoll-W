@@ -16,7 +16,6 @@ Senior PM who grew ZZAZZ from 0 to 90M MAU. Now at LinkWhisper, shaping AI-power
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
-**Latest**
 
 | Title | Covers | Date |
 |---|---|---|
