@@ -1,103 +1,96 @@
-```yaml
-Name:     Anmoll Wadhwa
-Role:     Senior Product Manager
-Scale:    1M to 90M MAU
-Building: AI-powered SEO at LinkWhisper
-Stack:    Claude Code, Supabase, Vercel
-Status:   Shipping, mentoring, still learning
-```
+<table align="right" width="340">
+<tr><th colspan="2" align="center">Anmoll Wadhwa</th></tr>
+<tr><td colspan="2" align="center"><em>Senior Product Manager</em></td></tr>
+<tr><td><b>Experience</b></td><td>7 years</td></tr>
+<tr><td><b>Current</b></td><td>LinkWhisper · AI-powered SEO</td></tr>
+<tr><td><b>Peak Scale</b></td><td>90M MAU (ZZAZZ)</td></tr>
+<tr><td><b>Known for</b></td><td>Consumer platforms, AI infra, building with code</td></tr>
+<tr><td><b>Mentoring</b></td><td>200+ aspiring PMs · Masai School</td></tr>
+<tr><td><b>Writing</b></td><td><a href="https://github.com/Anmoll-W/blog">22 posts · 4 series</a></td></tr>
+<tr><td><b>LinkedIn</b></td><td><a href="https://www.linkedin.com/in/anmoll-wadhwa/">anmoll-wadhwa</a></td></tr>
+<tr><td><b>Resume</b></td><td><a href="https://drive.google.com/file/d/1-lITIsq58-ES7HUOTGP16FVqbtyQcw6A/view?usp=sharing">Download PDF</a></td></tr>
+</table>
+
+> *This is the main page. For projects, see [Work That Shipped](#work-that-shipped). For writing, see [Blog](https://github.com/Anmoll-W/blog). For any specific project, navigate from the [Projects Directory](#projects-directory).*
+
+# Anmoll Wadhwa
+
+Senior PM with 7 years building consumer platforms, creator ecosystems, and AI infrastructure. Grew ZZAZZ from 1M to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products — and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
+
+I believe the best PMs leave things measurably better — and keep asking why it worked.
 
 ---
 
-## About
+<details>
+<summary><b>Contents</b></summary>
 
-> I scaled a platform to 90M users.  
-> I am still figuring out what great product looks like.
+- [Career](#career)
+- [Work That Shipped](#work-that-shipped)
+- [Projects Directory](#projects-directory)
+- [Writing](#writing)
+- [Stack](#stack)
+- [Education and Certifications](#education-and-certifications)
+- [Thinking in Public](#thinking-in-public)
+- [See Also](#see-also)
+- [Get in Touch](#get-in-touch)
 
-Senior PM with 7 years building across consumer scale, creator ecosystems, and AI infrastructure. Grew ZZAZZ from 1M to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
-
-I believe the best PMs leave things measurably better and keep asking why it worked.
+</details>
 
 ---
 
-## Stack I Reach For
+## Career
 
-**AI Tools** &nbsp; `Claude Code` `ChatGPT` `Lovable` `NotebookLM` `Cursor`
-
-**Analytics** &nbsp; `Mixpanel` `SQL` `Google Analytics` `Tableau`
-
-**Product** &nbsp; `Figma` `Notion` `Jira` `Confluence`
+| Company | Role | Period | Scale | Key Win |
+|---------|------|--------|-------|---------|
+| **[LinkWhisper](https://linkwhisper.com)** | Senior Product Manager | Jan 2026 – Present | B2B SaaS | Cut support resolution effort 50% via AI-automated workflows |
+| **[Masai School](https://masaischool.com)** | Teaching Assistant & Mentor | Dec 2025 – Present | 200+ students | 4.5/5 cohort rating across PM fundamentals curriculum |
+| **[ZZAZZ.AI](https://zzazz.ai)** | SPM → PM | 2020 – 2025 | 1M → **90M MAU** | Led cross-functional squads of 4 PMs + 3 designers · reported to CEO |
+| **Hello Travel India** | Associate PM | 2019 – 2020 | 300K+ users | Launched Travel Cost Calculator · drove 300K+ campaign reach |
+| **The Crazy Explorer** | Founder & Creator | 2017 – 2018 | Zero to one | 10% MoM user growth · 15+ partnerships in 2 months via SEO |
 
 ---
 
 ## Work That Shipped
 
-Open source. You can read the code and the thinking behind it.
+### Projects Directory
 
-**[ChalotripBot](https://github.com/Anmoll-W/chalotripbot)**
+| Project | Visibility | Stack | Status | What It Does |
+|---------|-----------|-------|--------|--------------|
+| [ChalotripBot](https://github.com/Anmoll-W/chalo-trip-bot) 🔒 | Private | Next.js · grammY · Claude API · Supabase · Vercel | Shipped (MVP) | AI Telegram bot that coordinates group trips end-to-end — budgets, itineraries, bill splits, debt settlement |
+| [Blog](https://github.com/Anmoll-W/blog) | Public | Markdown | Active · 22 posts | Writing about systems, silent bugs, and shipping with AI tools |
+| [prompt-generator-skill](https://github.com/Anmoll-W/prompt-generator-skill) | Public | Claude Code Skill | Released | Transforms a role title into a production-ready XML-structured prompt · ~75% token reduction |
+| [linkwhisper-support-dash](https://github.com/Anmoll-W/linkwhisper-support-dash) 🔒 | Private | Next.js · Supabase · Drizzle · Vercel | Live | Real-time support operations dashboard — ticket lifecycle, SLA metrics, KPIs · [live](https://support-dash-ruby.vercel.app) |
+| [linkwhisper-plugin-ui](https://github.com/Anmoll-W/linkwhisper-plugin-ui) 🔒 | Private | React · Vite · TypeScript · shadcn/ui | Active | UX prototype for the LinkWhisper WordPress plugin — 11 dashboard pages, design iteration before PHP production |
 
-`Next.js` `grammY` `Claude API` `Supabase` `Vercel`
-
-**Problem:** Group trips fall apart in chat chaos. Budgets, itineraries, bill splits, all handled manually.
-
-**What I built:** A Telegram bot that handles the full trip lifecycle. Collects private budgets, generates AI itineraries, splits bills, and settles debts inside one group chat.
-
-**Why it matters:** First end-to-end AI product I designed, spec'd, and shipped alone.
-
----
-
-## Where I Have Worked
-
-> [!NOTE]
-> **Senior Product Manager, LinkWhisper** &nbsp; `January 2026 to Present`
->
-> Steering AI-powered SEO product direction through user research and behavioral analytics. Driving affiliate re-engagement by identifying drop-off patterns. Automated support workflows and cut resolution effort by 50%.
->
-> ![SEO](https://img.shields.io/badge/SEO-0a66c2?style=flat-square&logoColor=white) ![AI](https://img.shields.io/badge/AI-0a66c2?style=flat-square&logoColor=white) ![SaaS](https://img.shields.io/badge/SaaS-0a66c2?style=flat-square&logoColor=white) ![B2B](https://img.shields.io/badge/B2B-0a66c2?style=flat-square&logoColor=white) ![Roadmapping](https://img.shields.io/badge/Roadmapping-0a66c2?style=flat-square&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-0a66c2?style=flat-square&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-0a66c2?style=flat-square&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-0a66c2?style=flat-square&logoColor=white)
+> 🔒 Private repos: code is not public but the build story is — see [Writing](#writing) for posts on each project.
 
 ---
 
-**Senior Product Manager to Product Manager, ZZAZZ.AI** `2020 to 2025`
+## Writing
 
-Scaled creator platform from 1M to 90M MAU. Led cross-functional squads of 4 PMs and 3 designers. Reported directly to CEO. Integrated LLM-driven analytics achieving 20% faster insight retrieval.
+I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
-![Consumer](https://img.shields.io/badge/Consumer-4a4a6a?style=flat-square&logoColor=white) ![Growth](https://img.shields.io/badge/Growth-4a4a6a?style=flat-square&logoColor=white) ![Creator Economy](https://img.shields.io/badge/Creator%20Economy-4a4a6a?style=flat-square&logoColor=white) ![AI](https://img.shields.io/badge/AI-4a4a6a?style=flat-square&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-4a4a6a?style=flat-square&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-4a4a6a?style=flat-square&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-4a4a6a?style=flat-square&logoColor=white) ![Mobile](https://img.shields.io/badge/Mobile-4a4a6a?style=flat-square&logoColor=white)
+→ Full index: **[Anmoll-W/blog](https://github.com/Anmoll-W/blog)**
 
----
+### Series
 
-**Teaching Assistant and Mentor, Masai School** `December 2025 to Present`
-
-Mentoring 200 plus aspiring PMs on product fundamentals, frameworks, and execution. Rated 4.5 out of 5 across cohorts.
-
-![Mentorship](https://img.shields.io/badge/Mentorship-4a4a6a?style=flat-square&logoColor=white) ![PM Education](https://img.shields.io/badge/PM%20Education-4a4a6a?style=flat-square&logoColor=white) ![Coaching](https://img.shields.io/badge/Coaching-4a4a6a?style=flat-square&logoColor=white) ![Curriculum Design](https://img.shields.io/badge/Curriculum%20Design-4a4a6a?style=flat-square&logoColor=white)
-
----
-
-**Associate Product Manager, Hello Travel India** `2019 to 2020`
-
-Led end-to-end design and launch of Travel Cost Calculator. Executed digital campaigns reaching 300K plus users and accelerating lead conversions.
-
-![Consumer](https://img.shields.io/badge/Consumer-4a4a6a?style=flat-square&logoColor=white) ![B2C](https://img.shields.io/badge/B2C-4a4a6a?style=flat-square&logoColor=white) ![Feature Launch](https://img.shields.io/badge/Feature%20Launch-4a4a6a?style=flat-square&logoColor=white) ![Go to Market](https://img.shields.io/badge/Go%20to%20Market-4a4a6a?style=flat-square&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-4a4a6a?style=flat-square&logoColor=white)
+| Series | Posts | What It Covers | Related Project |
+|--------|-------|----------------|-----------------|
+| [Building ChalotripBot](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md) | 2 | From broken prototype to shipped product — live test failures, parallel agent sprint strategy | [ChalotripBot](https://github.com/Anmoll-W/chalo-trip-bot) 🔒 |
+| [Silent Failures](https://github.com/Anmoll-W/blog/blob/main/series/silent-failures.md) | 6 | Bugs that pass tests and fail in production — Claude API, Telegram, Next.js, WordPress | [ChalotripBot](https://github.com/Anmoll-W/chalo-trip-bot) 🔒 · [Plugin UI](https://github.com/Anmoll-W/linkwhisper-plugin-ui) 🔒 |
+| [Vault as OS](https://github.com/Anmoll-W/blog/blob/main/series/vault-as-os.md) | 5 | Building an Obsidian vault into an automated knowledge system with 11 AI personas | — |
+| [GitHub is Your Portfolio](https://github.com/Anmoll-W/blog/blob/main/series/github-is-your-portfolio.md) | 3 | Why I archived a portfolio site and rebuilt my presence around GitHub · Wikipedia-style READMEs | [This profile](https://github.com/Anmoll-W) |
 
 ---
 
-**Founder and Creator, The Crazy Explorer** `2017 to 2018`
+## Stack
 
-Built a travel platform from zero to one using SEO-led strategies. Achieved 10% monthly user growth and 15 plus partnerships within 2 months.
-
-![Zero to One](https://img.shields.io/badge/Zero%20to%20One-4a4a6a?style=flat-square&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-4a4a6a?style=flat-square&logoColor=white) ![Growth](https://img.shields.io/badge/Growth-4a4a6a?style=flat-square&logoColor=white) ![Partnerships](https://img.shields.io/badge/Partnerships-4a4a6a?style=flat-square&logoColor=white)
-
----
-
-## Thinking in Public
-
-I write on LinkedIn daily, covering product, AI, and how I think about building things.
-
-- ["Most product failures are not feature failures."](https://www.linkedin.com/posts/anmoll-wadhwa_productmanagement-productstrategy-frameworks-activity-7442413690768924672-qiNY)
-- ["Myth: AI is most powerful when you use it. Reality: It peaks when you stop having to."](https://www.linkedin.com/posts/anmoll-wadhwa_automation-os-20-activity-7446768658258849792-uSE8)
-- ["I was learning faster than I could post."](https://www.linkedin.com/posts/anmoll-wadhwa_linkedin-os-activity-7442791468773060608-MSZ7)
-
-[All posts on LinkedIn](https://www.linkedin.com/in/anmoll-wadhwa/)
+| Category | Tools |
+|----------|-------|
+| **AI & LLMs** | Claude Code · Claude API · ChatGPT · Cursor · Lovable · NotebookLM |
+| **Build** | Next.js · React · TypeScript · Supabase · Vercel · Drizzle ORM · Tailwind |
+| **Analytics** | Mixpanel · SQL · Google Analytics · Tableau |
+| **Product** | Figma · Jira · Confluence · Obsidian |
 
 ---
 
@@ -115,23 +108,57 @@ I distill working sessions into posts about systems, silent bugs, and building w
 
 ## Education and Certifications
 
-| | |
-|---|---|
-| **MBA, Dual Degree** | IU International University of Applied Sciences, Germany and London South Bank University, UK (2024) |
-| **Bachelor of Business Administration** | Rukmini Devi Institute of Advanced Studies, GGSIPU, New Delhi (2019) |
+| Degree | Institution | Year |
+|--------|------------|------|
+| **MBA, Dual Degree** | IU International University of Applied Sciences, Germany + London South Bank University, UK | 2024 |
+| **BBA** | Rukmini Devi Institute of Advanced Studies, GGSIPU, New Delhi | 2019 |
 
 **Certifications**
 
-- AI First PM, Rethink Systems
-- ChatGPT and AI Agents, Growth School
-- Generative AI for PMs, Growth School
-- Introduction to Generative AI, Google Cloud
-- Certified PM and Tech PM, Brightigo
+| Certification | Issuer |
+|--------------|--------|
+| AI First PM | Rethink Systems |
+| ChatGPT and AI Agents | Growth School |
+| Generative AI for PMs | Growth School |
+| Introduction to Generative AI | Google Cloud |
+| Certified PM and Tech PM | Brightigo |
+
+---
+
+## Thinking in Public
+
+Writing on LinkedIn daily — product, AI, and how I think about building.
+
+| Quote | Link |
+|-------|------|
+| *"Most product failures are not feature failures."* | [→ Post](https://www.linkedin.com/posts/anmoll-wadhwa_productmanagement-productstrategy-frameworks-activity-7442413690768924672-qiNY) |
+| *"AI peaks when you stop having to use it."* | [→ Post](https://www.linkedin.com/posts/anmoll-wadhwa_automation-os-20-activity-7446768658258849792-uSE8) |
+| *"I was learning faster than I could post."* | [→ Post](https://www.linkedin.com/posts/anmoll-wadhwa_linkedin-os-activity-7442791468773060608-MSZ7) |
+
+[All posts →](https://www.linkedin.com/in/anmoll-wadhwa/)
+
+---
+
+## See Also
+
+- [Anmoll-W/blog](https://github.com/Anmoll-W/blog) — 22 posts on systems, silent bugs, and shipping with AI
+- [Anmoll-W/chalo-trip-bot](https://github.com/Anmoll-W/chalo-trip-bot) — AI Telegram group trip coordinator 🔒
+- [Anmoll-W/prompt-generator-skill](https://github.com/Anmoll-W/prompt-generator-skill) — Claude Code prompt generation skill
+- [Anmoll-W/linkwhisper-support-dash](https://github.com/Anmoll-W/linkwhisper-support-dash) — Support operations dashboard 🔒
+- [Anmoll-W/linkwhisper-plugin-ui](https://github.com/Anmoll-W/linkwhisper-plugin-ui) — LinkWhisper plugin UI prototype 🔒
 
 ---
 
 ## Get in Touch
 
-[📄 Download Resume](https://drive.google.com/file/d/1-lITIsq58-ES7HUOTGP16FVqbtyQcw6A/view?usp=sharing) &nbsp; [LinkedIn](https://www.linkedin.com/in/anmoll-wadhwa/)
+[📄 Resume](https://drive.google.com/file/d/1-lITIsq58-ES7HUOTGP16FVqbtyQcw6A/view?usp=sharing) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/anmoll-wadhwa/)
 
-Got a product challenge? Let's talk. If you are building something ambitious and need a PM who has done this at scale, I would like to hear about it.
+Building something ambitious and need a PM who has done this at scale? I would like to hear about it.
+
+---
+
+![Product Management](https://img.shields.io/badge/Product%20Management-0a66c2?style=flat-square&logoColor=white)
+![AI](https://img.shields.io/badge/AI-7b2ff7?style=flat-square&logoColor=white)
+![Consumer Scale](https://img.shields.io/badge/Consumer%20Scale-2ea44f?style=flat-square&logoColor=white)
+![Creator Economy](https://img.shields.io/badge/Creator%20Economy-e36209?style=flat-square&logoColor=white)
+![Building in Public](https://img.shields.io/badge/Building%20in%20Public-24292f?style=flat-square&logoColor=white)
