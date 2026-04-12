@@ -4,7 +4,7 @@
 
 <table align="right" width="340">
 <tr><th colspan="2" align="center">Senior Product Manager</th></tr>
-<tr><td colspan="2" align="center"><em>Senior Product Manager</em></td></tr>
+<tr><td colspan="2" align="center"><em>7 years · New Delhi, India</em></td></tr>
 <tr><td><b>Experience</b></td><td>7 years</td></tr>
 <tr><td><b>Current</b></td><td>LinkWhisper · AI-powered SEO</td></tr>
 <tr><td><b>Peak Scale</b></td><td>90M MAU (ZZAZZ)</td></tr>
