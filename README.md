@@ -1,6 +1,6 @@
 # Anmoll Wadhwa
 
-Senior PM who grew ZZAZZ from 1M to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
+Senior PM who grew ZZAZZ from 0 to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
 
 ---
 
