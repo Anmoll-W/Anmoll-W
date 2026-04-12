@@ -145,8 +145,8 @@ Building something ambitious and need a PM who has done this at scale? I would l
 
 ---
 
-![Product Management](https://img.shields.io/badge/Product%20Management-0a66c2?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/AI-7b2ff7?style=flat-square&logoColor=white)
-![Consumer Scale](https://img.shields.io/badge/Consumer%20Scale-2ea44f?style=flat-square&logoColor=white)
-![Creator Economy](https://img.shields.io/badge/Creator%20Economy-e36209?style=flat-square&logoColor=white)
-![Building in Public](https://img.shields.io/badge/Building%20in%20Public-24292f?style=flat-square&logoColor=white)
+![Category: Product Management](https://img.shields.io/badge/Category-Product%20Management-0a66c2?style=flat-square)
+![Category: AI](https://img.shields.io/badge/Category-AI-7b2ff7?style=flat-square)
+![Category: Consumer Scale](https://img.shields.io/badge/Category-Consumer%20Scale-2ea44f?style=flat-square)
+![Category: Creator Economy](https://img.shields.io/badge/Category-Creator%20Economy-e36209?style=flat-square)
+![Building in Public](https://img.shields.io/badge/Building%20in%20Public-24292f?style=flat-square)
