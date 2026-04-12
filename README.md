@@ -12,6 +12,26 @@ Senior PM who grew ZZAZZ from 0 to 90M MAU. Now at LinkWhisper, shaping AI-power
 
 ---
 
+### Learning in Public
+
+I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
+
+**Latest**
+
+| Title | Covers | Date |
+|---|---|---|
+| [From Identity Files to Persona Stubs](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-12-persona-layer-architecture.md) | Replaced heavyweight identity files with compact stubs and routing tables in Claude's vault system | Apr 12 |
+| [Why I Rebuilt My GitHub Profile as a Wikipedia Article](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-wikipedia-style-readme.md) | Using Wikipedia's cross-linking model to turn a GitHub profile into a connected portfolio network | Apr 10 |
+| [From Problem Space to Working Codebase in One Day](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-spec-to-codebase-one-day.md) | How persona separation enabled going from design session to 16 functional routes in 12 hours | Apr 10 |
+| [Formula Hooks Kill the Metric They Optimize For](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-formula-hooks-kill-metrics.md) | Why AI agents execute policy not intent — and how formula-driven hooks quietly destroy the metric | Apr 10 |
+| [Building an AI Agent Team](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-building-an-ai-agent-team.md) | Building an 11-agent coordinated persona system: from isolated prompts to a team with memory | Apr 10 |
+
+**Series:** [Silent Failures](https://github.com/Anmoll-W/blog/blob/main/series/silent-failures.md) · [Vault as OS](https://github.com/Anmoll-W/blog/blob/main/series/vault-as-os.md) · [GitHub is Your Portfolio](https://github.com/Anmoll-W/blog/blob/main/series/github-is-your-portfolio.md) · [Building ChalotripBot](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)
+
+Full index: **[Anmoll-W/blog](https://github.com/Anmoll-W/blog)**
+
+---
+
 ### Stack
 
 **AI & LLMs**
@@ -25,23 +45,3 @@ Senior PM who grew ZZAZZ from 0 to 90M MAU. Now at LinkWhisper, shaping AI-power
 **Build Tools**
 
 ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white) ![Google Stitch](https://img.shields.io/badge/Google_Stitch-1e293b?style=flat-square&logo=google&logoColor=white)
-
----
-
-### Learning in Public
-
-I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
-
-**Latest**
-
-| Title | Date |
-|---|---|
-| [From Identity Files to Persona Stubs](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-12-persona-layer-architecture.md) | Apr 12 |
-| [Why I Rebuilt My GitHub Profile as a Wikipedia Article](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-wikipedia-style-readme.md) | Apr 10 |
-| [From Problem Space to Working Codebase in One Day](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-spec-to-codebase-one-day.md) | Apr 10 |
-| [Formula Hooks Kill the Metric They Optimize For](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-formula-hooks-kill-metrics.md) | Apr 10 |
-| [Building an AI Agent Team](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-building-an-ai-agent-team.md) | Apr 10 |
-
-**Series:** [Silent Failures](https://github.com/Anmoll-W/blog/blob/main/series/silent-failures.md) · [Vault as OS](https://github.com/Anmoll-W/blog/blob/main/series/vault-as-os.md) · [GitHub is Your Portfolio](https://github.com/Anmoll-W/blog/blob/main/series/github-is-your-portfolio.md) · [Building ChalotripBot](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)
-
-Full index: **[Anmoll-W/blog](https://github.com/Anmoll-W/blog)**
