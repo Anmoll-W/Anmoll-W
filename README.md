@@ -15,9 +15,6 @@ Senior PM who grew ZZAZZ from 0 to 90M MAU. Now at LinkWhisper, shaping AI-power
 ### Stack
 
 **AI & LLMs** · Claude Code · Claude API · ChatGPT · Cursor · Lovable
-
-**Build** · Next.js · React · TypeScript · Supabase · Vercel · Tailwind
-
 **Analytics & Product** · Mixpanel · SQL · Figma · Jira · Obsidian
 
 ---
