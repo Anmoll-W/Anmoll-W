@@ -101,6 +101,18 @@ I write on LinkedIn daily, covering product, AI, and how I think about building 
 
 ---
 
+## Writing
+
+I distill working sessions into posts about systems, silent bugs, and building with AI tools.
+
+- [Claude Appends Text After JSON: A Silent Bug Across 8 API Call Sites](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-04-claude-appends-text-after-json.md)
+- [From Manual to Automatic: How I Built a Vault OS That Runs Itself](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-05-vault-os-that-runs-itself.md)
+- [When the AI Fix is Wrong: What Senior Review Catches](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-09-when-the-ai-fix-is-wrong.md)
+
+[All posts](https://github.com/Anmoll-W/blog)
+
+---
+
 ## Education and Certifications
 
 | | |
