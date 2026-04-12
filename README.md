@@ -2,19 +2,7 @@
 
 Senior PM who grew ZZAZZ from 0 to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
 ### Playing with 
-
-**AI & LLMs**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-1e293b?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-1e293b?style=flat-square&logo=google&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-1e293b?style=flat-square&logo=openai&logoColor=white) ![Runway](https://img.shields.io/badge/Runway-1e293b?style=flat-square&logoColor=white)
-
-**Analytics & Product**
-
-![Mixpanel](https://img.shields.io/badge/Mixpanel-1e293b?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-1e293b?style=flat-square&logo=jira&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-1e293b?style=flat-square&logo=obsidian&logoColor=white)
-
-**Build Tools**
-
-![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white) ![Google Stitch](https://img.shields.io/badge/Google_Stitch-1e293b?style=flat-square&logo=google&logoColor=white)
-
+![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-1e293b?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-1e293b?style=flat-square&logo=google&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-1e293b?style=flat-square&logo=openai&logoColor=white) ![Runway](https://img.shields.io/badge/Runway-1e293b?style=flat-square&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-1e293b?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-1e293b?style=flat-square&logo=jira&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-1e293b?style=flat-square&logo=obsidian&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white) ![Google Stitch](https://img.shields.io/badge/Google_Stitch-1e293b?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -31,28 +19,10 @@ Senior PM who grew ZZAZZ from 0 to 90M MAU. Now at LinkWhisper, shaping AI-power
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
 
-| Title | Covers | Date |
-|---|---|---|
-| [From Identity Files to Persona Stubs](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-12-persona-layer-architecture.md) | Replaced heavyweight identity files with compact stubs and routing tables in Claude's vault system | Apr 12 |
-| [Why I Rebuilt My GitHub Profile as a Wikipedia Article](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-wikipedia-style-readme.md) | Using Wikipedia's cross-linking model to turn a GitHub profile into a connected portfolio network | Apr 10 |
-| [From Problem Space to Working Codebase in One Day](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-spec-to-codebase-one-day.md) | How persona separation enabled going from design session to 16 functional routes in 12 hours | Apr 10 |
-| [Formula Hooks Kill the Metric They Optimize For](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-formula-hooks-kill-metrics.md) | Why AI agents execute policy not intent — and how formula-driven hooks quietly destroy the metric | Apr 10 |
-| [Building an AI Agent Team](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-building-an-ai-agent-team.md) | Building an 11-agent coordinated persona system: from isolated prompts to a team with memory | Apr 10 |
-
-**Series:** [Silent Failures](https://github.com/Anmoll-W/blog/blob/main/series/silent-failures.md) · [Vault as OS](https://github.com/Anmoll-W/blog/blob/main/series/vault-as-os.md) · [GitHub is Your Portfolio](https://github.com/Anmoll-W/blog/blob/main/series/github-is-your-portfolio.md) · [Building ChalotripBot](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)
-
----
-
-### Stack
-
-**AI & LLMs**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-1e293b?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-1e293b?style=flat-square&logo=google&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-1e293b?style=flat-square&logo=openai&logoColor=white) ![Runway](https://img.shields.io/badge/Runway-1e293b?style=flat-square&logoColor=white)
-
-**Analytics & Product**
-
-![Mixpanel](https://img.shields.io/badge/Mixpanel-1e293b?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-1e293b?style=flat-square&logo=jira&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-1e293b?style=flat-square&logo=obsidian&logoColor=white)
-
-**Build Tools**
-
-![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white) ![Google Stitch](https://img.shields.io/badge/Google_Stitch-1e293b?style=flat-square&logo=google&logoColor=white)
+| Title | Covers 
+|---|---|
+| [From Identity Files to Persona Stubs](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-12-persona-layer-architecture.md) | Replaced heavyweight identity files with compact stubs and routing tables in Claude's vault system
+| [Why I Rebuilt My GitHub Profile as a Wikipedia Article](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-wikipedia-style-readme.md) | Using Wikipedia's cross-linking model to turn a GitHub profile into a connected portfolio network
+| [From Problem Space to Working Codebase in One Day](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-spec-to-codebase-one-day.md) | How persona separation enabled going from design session to 16 functional routes in 12 hours
+| [Formula Hooks Kill the Metric They Optimize For](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-formula-hooks-kill-metrics.md) | Why AI agents execute policy not intent — and how formula-driven hooks quietly destroy the metric 
+| [Building an AI Agent Team](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-building-an-ai-agent-team.md) | Building an 11-agent coordinated persona system: from isolated prompts to a team with memory
