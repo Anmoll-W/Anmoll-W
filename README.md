@@ -21,8 +21,8 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 | Title | Covers 
 |---|---|
-| [From Identity Files to Persona Stubs](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-12-persona-layer-architecture.md) | Replaced heavyweight identity files with compact stubs and routing tables in Claude's vault system
-| [Why I Rebuilt My GitHub Profile as a Wikipedia Article](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-wikipedia-style-readme.md) | Using Wikipedia's cross-linking model to turn a GitHub profile into a connected portfolio network
-| [From Problem Space to Working Codebase in One Day](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-spec-to-codebase-one-day.md) | How persona separation enabled going from design session to 16 functional routes in 12 hours
-| [Formula Hooks Kill the Metric They Optimize For](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-formula-hooks-kill-metrics.md) | Why AI agents execute policy not intent — and how formula-driven hooks quietly destroy the metric 
-| [Building an AI Agent Team](https://github.com/Anmoll-W/blog/blob/main/posts/2026-04-10-building-an-ai-agent-team.md) | Building an 11-agent coordinated persona system: from isolated prompts to a team with memory
+| [The Eval Agent: Adding a Quality Gate to an AI Workflow](https://github.com/Anmoll-W/blog/blob/main/posts/the-eval-agent.md) | Why producing agents cannot eval their own output — and how adding a 13th agent whose only job is to push back changed what ships
+| [From Identity Files to Persona Stubs](https://github.com/Anmoll-W/blog/blob/main/posts/persona-layer-architecture.md) | Replaced heavyweight identity files with compact stubs and routing tables in Claude's vault system
+| [Formula Hooks Kill the Metric They Optimize For](https://github.com/Anmoll-W/blog/blob/main/posts/formula-hooks-kill-metrics.md) | Why AI agents execute policy not intent — and how formula-driven hooks quietly destroy the metric
+| [From Problem Space to Working Codebase in One Day](https://github.com/Anmoll-W/blog/blob/main/posts/spec-to-codebase-one-day.md) | How persona separation enabled going from design session to 16 functional routes in 12 hours
+| [Why I Rebuilt My GitHub Profile as a Wikipedia Article](https://github.com/Anmoll-W/blog/blob/main/posts/wikipedia-style-readme.md) | Using Wikipedia's cross-linking model to turn a GitHub profile into a connected portfolio network
