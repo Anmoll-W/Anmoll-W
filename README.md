@@ -21,8 +21,8 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 | Title | Covers 
 |---|---|
+| [Scheduling Claude: Expanding a Vault OS from 3 Automated Routines to 7](https://github.com/Anmoll-W/blog/blob/main/posts/second-automation-layer.md) | How a 3-agent vault automation system grew to 7 — Chrome-gated analytics, daily task migration, Monday content dispatch, and quality gates on code and publishing
 | [launchd and iCloud: The Silent Block That Stopped Every Scheduled Agent](https://github.com/Anmoll-W/blog/blob/main/posts/launchd-icloud-silent-block.md) | Why scheduled vault automations were loaded but never actually running — an iCloud sync layer that silently blocks launchd exec, and a plist pointing at a script that never existed
 | [Nobody Was Logging In: How I Deleted a Support Dashboard and Built a Cron Job Instead](https://github.com/Anmoll-W/blog/blob/main/posts/dashboard-to-digest.md) | Built a dashboard nobody used, deleted the database, replaced it with a 7 AM cron digest — and three product lessons that came out of it
 | [The Eval Agent: Adding a Quality Gate to an AI Workflow](https://github.com/Anmoll-W/blog/blob/main/posts/the-eval-agent.md) | Why producing agents cannot eval their own output — and how adding a 13th agent whose only job is to push back changed what ships
 | [From Identity Files to Persona Stubs](https://github.com/Anmoll-W/blog/blob/main/posts/persona-layer-architecture.md) | Replaced heavyweight identity files with compact stubs and routing tables in Claude's vault system
-| [Formula Hooks Kill the Metric They Optimize For](https://github.com/Anmoll-W/blog/blob/main/posts/formula-hooks-kill-metrics.md) | Why AI agents execute policy not intent — and how formula-driven hooks quietly destroy the metric
