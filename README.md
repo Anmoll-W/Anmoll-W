@@ -13,6 +13,9 @@ Senior PM who grew a startup from 0 to 90M MAU. Now at LinkWhisper, shaping AI-p
 - 🧰 **prompt-generator-skill** — open-source Claude Code skill, ~75% token reduction → [install](https://github.com/Anmoll-W/prompt-generator-skill)
 - 🔗 **internal-link-checker** — built at LinkWhisper — scans sites for broken links, orphan pages, and internal linking gaps → [try it](https://github.com/Anmoll-W/internal-link-checker)
 - 🧠 **pg-startup-eval** — Claude Code skill: evaluate any startup idea through 17 frameworks (PG, Thiel, Sequoia, Mom Test) with a forced verdict → [install](https://github.com/Anmoll-W/pg-startup-eval)
+- 🛒 **BlinkFit** — peak-hour decision support for dark store managers — context-aware alert ranking for Blinkit's 6-10 PM window → [case study](https://github.com/Anmoll-W/blinkfit)
+- 📱 **BharatCRM** — WhatsApp-first CRM for T2/T3 India founders — complete product strategy from 500 founder interviews to a 6-feature spec → [case study](https://github.com/Anmoll-W/bharatcrm)
+- 📹 **youtube-longform** — product spec for fixing YouTube's algorithm bias against long-form — three intervention directions targeting viewer discovery, creator economics, and ranking metrics → [case study](https://github.com/Anmoll-W/youtube-longform)
 
 ---
 
