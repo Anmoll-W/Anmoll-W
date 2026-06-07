@@ -1,23 +1,39 @@
 <img src="docs/header.png" alt="Building AI Products" width="100%">
 
+<sub>90M+ users · 10,000+ creators · 700M+ impressions — built at ZZAZZ (2020–2025) · 250+ PMs mentored at Masai School</sub>
+
 # 👋 Hi, I'm Anmoll
 
-Senior PM who grew a startup from 0 to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
+I scaled a platform to 90M users.
+I'm still figuring out what great product looks like.
+
+Senior PM with 8 years building across consumer scale, creator ecosystems, and AI infrastructure. Grew ZZAZZ from 1M to 90M MAU across 70 countries. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
 
 I build Claude Code skills for product managers — runnable tools that go from spec to verdict in one command.
 
-### Playing with 
+### Stack I Reach For
 ![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude Design](https://img.shields.io/badge/Claude_Design-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-1e293b?style=flat-square&logoColor=white) ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-1e293b?style=flat-square&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-1e293b?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-1e293b?style=flat-square&logo=google&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-1e293b?style=flat-square&logo=openai&logoColor=white) ![Runway](https://img.shields.io/badge/Runway-1e293b?style=flat-square&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-1e293b?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-1e293b?style=flat-square&logo=jira&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-1e293b?style=flat-square&logo=obsidian&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white) ![Google Stitch](https://img.shields.io/badge/Google_Stitch-1e293b?style=flat-square&logo=google&logoColor=white)
 
 ---
 
 ### 🔨 Currently Building
 
-- 🧰 **prompt-generator-skill** — open-source Claude Code skill, ~75% token reduction → [install](https://github.com/Anmoll-W/prompt-generator-skill)
-- 🧠 **pg-startup-eval** — Claude Code skill: evaluate any startup idea through 17 frameworks (PG, Thiel, Sequoia, Mom Test) with a forced verdict → [install](https://github.com/Anmoll-W/pg-startup-eval)
-- 🤖 **AI support automation** — cut ticket resolution effort 50% with Claude-powered workflows → [build story](https://github.com/Anmoll-W/blog)
+- 🧰 **prompt-generator-skill**
+  **Problem:** Vague prompts force the model to guess tone, structure, and format — every guess is variance and wasted tokens.
+  **Built:** Open-source Claude Code skill that turns a role description into a production-ready XML prompt. ~75% token reduction.
+  **Why it matters:** [→ install](https://github.com/Anmoll-W/prompt-generator-skill)
 
-#### Case studies
+- 🧠 **pg-startup-eval**
+  **Problem:** AI feedback on startup ideas is encouraging mush — no framework rigor, no forced verdict.
+  **Built:** Claude Code skill that runs any idea through 17 investor frameworks (PG, Thiel, Sequoia, Mom Test) and forces a Strong/Weak/Pivot verdict.
+  **Why it matters:** [→ install](https://github.com/Anmoll-W/pg-startup-eval)
+
+- 🤖 **AI support automation**
+  **Problem:** LinkWhisper support tickets required manual triage and back-and-forth that didn't scale.
+  **Built:** Claude-powered workflows that cut ticket resolution effort 50%.
+  **Why it matters:** [→ build story](https://github.com/Anmoll-W/blog)
+
+### 📋 Case studies
 
 - 🗺️ **ChalotripBot** — Telegram bot for group trip planning, budgets, and bill splits → [build story](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)
 - 🛒 **BlinkFit** — peak-hour decision support for dark store managers — context-aware alert ranking for Blinkit's 6-10 PM window → [case study](https://github.com/Anmoll-W/blinkfit)
