@@ -1,7 +1,5 @@
 <img src="docs/header.png" alt="Building AI Products" width="100%">
 
-<sub>90M+ users · 10,000+ creators · 700M+ impressions — built at ZZAZZ (2020–2025) · 250+ PMs mentored at Masai School</sub>
-
 # 👋 Hi, I'm Anmoll
 
 I scaled a platform to 90M users.
