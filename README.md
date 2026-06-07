@@ -48,17 +48,17 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
-**[Your Agents Are Only as Good as the Context You Program Them With](https://github.com/Anmoll-W/blog/blob/main/posts/context-is-the-program.md)**
-Quality gates that lived in prose instead of code, and the adversarial agents that caught what 28/28 passing tests missed.
+- **[Your Agents Are Only as Good as the Context You Program Them With](https://github.com/Anmoll-W/blog/blob/main/posts/context-is-the-program.md)**
+  Quality gates that lived in prose instead of code, and the adversarial agents that caught what 28/28 passing tests missed.
 
-**[How My Hermes Agent Works: From a PM's Point of View](https://github.com/Anmoll-W/blog/blob/main/posts/building-a-personal-ai-ops-layer.md)**
-The three-layer architecture behind a personal AI ops system: vault as brain, server as always-on body, built to draft and never publish.
+- **[How My Hermes Agent Works: From a PM's Point of View](https://github.com/Anmoll-W/blog/blob/main/posts/building-a-personal-ai-ops-layer.md)**
+  The three-layer architecture behind a personal AI ops system: vault as brain, server as always-on body, built to draft and never publish.
 
-**[Hermes, Wave 4: Finance Intel From a Server That Cannot See My Finances](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-4-finance-intel-off-server.md)**
-Daily finance intel from a server deliberately blindfolded to every finance file. The math runs locally; only a verdict crosses the wire.
+- **[Hermes, Wave 4: Finance Intel From a Server That Cannot See My Finances](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-4-finance-intel-off-server.md)**
+  Daily finance intel from a server deliberately blindfolded to every finance file. The math runs locally; only a verdict crosses the wire.
 
-**[Hermes, Wave 3: A Machine That Drafts From My Notes But Cannot Post](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-3-the-machine-that-drafts.md)**
-The always-on server starts writing: it drafts from vault signals and by construction cannot post. Three prompt-injection holes caught before launch.
+- **[Hermes, Wave 3: A Machine That Drafts From My Notes But Cannot Post](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-3-the-machine-that-drafts.md)**
+  The always-on server starts writing: it drafts from vault signals and by construction cannot post. Three prompt-injection holes caught before launch.
 
-**[Hermes, Wave 2: The Tests Passed. The Code Was Broken Anyway.](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-2-tests-that-lie.md)**
-Six defects that a green test suite completely missed, caught by a two-reviewer adversarial gate. A passing test is a claim, not a proof.
+- **[Hermes, Wave 2: The Tests Passed. The Code Was Broken Anyway.](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-2-tests-that-lie.md)**
+  Six defects that a green test suite completely missed, caught by a two-reviewer adversarial gate. A passing test is a claim, not a proof.
