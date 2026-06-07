@@ -1,3 +1,5 @@
+<img src="docs/header.png" alt="Building AI Products" width="100%">
+
 # 👋 Hi, I'm Anmoll
 
 Senior PM who grew a startup from 0 to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
@@ -23,8 +25,6 @@ I build Claude Code skills for product managers — runnable tools that go from 
 - 📹 **youtube-longform** — product spec for fixing YouTube's algorithm bias against long-form — three intervention directions targeting viewer discovery, creator economics, and ranking metrics → [case study](https://github.com/Anmoll-W/youtube-longform)
 
 ---
-
-→ Follow the blog for build stories: [Anmoll-W/blog](https://github.com/Anmoll-W/blog)
 
 ### Learning in Public (**[Anmoll-W/blog](https://github.com/Anmoll-W/blog)**)
 
