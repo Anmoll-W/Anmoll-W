@@ -31,6 +31,8 @@ I build Claude Code skills for product managers — runnable tools that go from 
   **Built:** Claude-powered workflows that cut ticket resolution effort 50%.
   **Why it matters:** [→ build story](https://github.com/Anmoll-W/blog)
 
+---
+
 ### 📋 Case studies
 
 - 🗺️ **ChalotripBot** — Telegram bot for group trip planning, budgets, and bill splits → [build story](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)
