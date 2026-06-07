@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Anmoll
 
 Senior PM who grew a startup from 0 to 90M MAU. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
+
+I build Claude Code skills for product managers — runnable tools that go from spec to verdict in one command.
+
 ### Playing with 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude Design](https://img.shields.io/badge/Claude_Design-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-1e293b?style=flat-square&logoColor=white) ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-1e293b?style=flat-square&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-1e293b?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-1e293b?style=flat-square&logo=google&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-1e293b?style=flat-square&logo=openai&logoColor=white) ![Runway](https://img.shields.io/badge/Runway-1e293b?style=flat-square&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-1e293b?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-1e293b?style=flat-square&logo=jira&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-1e293b?style=flat-square&logo=obsidian&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white) ![Google Stitch](https://img.shields.io/badge/Google_Stitch-1e293b?style=flat-square&logo=google&logoColor=white)
 
@@ -8,16 +11,20 @@ Senior PM who grew a startup from 0 to 90M MAU. Now at LinkWhisper, shaping AI-p
 
 ### 🔨 Currently Building
 
-- 🤖 **AI support automation** — cut ticket resolution effort 50% with Claude-powered workflows → [build story](https://github.com/Anmoll-W/blog)
-- 🗺️ **ChalotripBot** — Telegram bot for group trip planning, budgets, and bill splits → [build story](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)
 - 🧰 **prompt-generator-skill** — open-source Claude Code skill, ~75% token reduction → [install](https://github.com/Anmoll-W/prompt-generator-skill)
-- 🔗 **internal-link-checker** — built at LinkWhisper — scans sites for broken links, orphan pages, and internal linking gaps → [try it](https://github.com/Anmoll-W/internal-link-checker)
 - 🧠 **pg-startup-eval** — Claude Code skill: evaluate any startup idea through 17 frameworks (PG, Thiel, Sequoia, Mom Test) with a forced verdict → [install](https://github.com/Anmoll-W/pg-startup-eval)
+- 🤖 **AI support automation** — cut ticket resolution effort 50% with Claude-powered workflows → [build story](https://github.com/Anmoll-W/blog)
+
+#### Case studies
+
+- 🗺️ **ChalotripBot** — Telegram bot for group trip planning, budgets, and bill splits → [build story](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)
 - 🛒 **BlinkFit** — peak-hour decision support for dark store managers — context-aware alert ranking for Blinkit's 6-10 PM window → [case study](https://github.com/Anmoll-W/blinkfit)
 - 📱 **BharatCRM** — WhatsApp-first CRM for T2/T3 India founders — complete product strategy from 500 founder interviews to a 6-feature spec → [case study](https://github.com/Anmoll-W/bharatcrm)
 - 📹 **youtube-longform** — product spec for fixing YouTube's algorithm bias against long-form — three intervention directions targeting viewer discovery, creator economics, and ranking metrics → [case study](https://github.com/Anmoll-W/youtube-longform)
 
 ---
+
+→ Follow the blog for build stories: [Anmoll-W/blog](https://github.com/Anmoll-W/blog)
 
 ### Learning in Public (**[Anmoll-W/blog](https://github.com/Anmoll-W/blog)**)
 
