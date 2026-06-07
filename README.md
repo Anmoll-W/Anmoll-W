@@ -35,14 +35,16 @@ I build Claude Code skills for product managers: runnable tools that go from spe
 
 ### 📋 Case studies
 
-- 🗺️ **ChalotripBot**: Telegram bot for group trip planning, budgets, and bill splits → [build story](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)
-- 🛒 **BlinkFit**: peak-hour decision support for dark store managers, context-aware alert ranking for Blinkit's 6-10 PM window → [case study](https://github.com/Anmoll-W/blinkfit)
-- 📱 **BharatCRM**: WhatsApp-first CRM for T2/T3 India founders. Complete product strategy from 500 founder interviews to a 6-feature spec → [case study](https://github.com/Anmoll-W/bharatcrm)
-- 📹 **youtube-longform**: product spec for fixing YouTube's algorithm bias against long-form. Three intervention directions targeting viewer discovery, creator economics, and ranking metrics → [case study](https://github.com/Anmoll-W/youtube-longform)
+Product specs and strategies from zero-to-one problems. Each one is a full PM artifact, built from user research and real constraints.
+
+- 🗺️ **[ChalotripBot](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)**: Build story. Telegram bot for group trip planning, budgets, and bill splits.
+- 🛒 **[BlinkFit](https://github.com/Anmoll-W/blinkfit)**: Case study. Peak-hour decision support for dark store managers, context-aware alert ranking for Blinkit's 6-10 PM window.
+- 📱 **[BharatCRM](https://github.com/Anmoll-W/bharatcrm)**: Case study. WhatsApp-first CRM for T2/T3 India founders. Complete product strategy from 500 founder interviews to a 6-feature spec.
+- 📹 **[youtube-longform](https://github.com/Anmoll-W/youtube-longform)**: Case study. Product spec for fixing YouTube's algorithm bias against long-form. Three intervention directions targeting viewer discovery, creator economics, and ranking metrics.
 
 ---
 
-### Learning in Public (**[Anmoll-W/blog](https://github.com/Anmoll-W/blog)**)
+### ✍️ Learning in Public (**[Anmoll-W/blog](https://github.com/Anmoll-W/blog)**)
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
