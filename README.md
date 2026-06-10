@@ -48,6 +48,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[Append-Only Is Where Lessons Go to Die](https://github.com/Anmoll-W/blog/blob/main/posts/append-only-is-where-lessons-go-to-die.md)**
+  933 lines of agent lessons, same mistakes anyway. The overnight learning loop that fixed it: scored lessons, eviction caps, and a reflector that refused to learn from noise.
+
 - **[Your Agents Are Only as Good as the Context You Program Them With](https://github.com/Anmoll-W/blog/blob/main/posts/context-is-the-program.md)**
   Quality gates that lived in prose instead of code, and the adversarial agents that caught what 28/28 passing tests missed.
 
@@ -60,5 +63,3 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 - **[Hermes, Wave 3: A Machine That Drafts From My Notes But Cannot Post](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-3-the-machine-that-drafts.md)**
   The always-on server starts writing: it drafts from vault signals and by construction cannot post. Three prompt-injection holes caught before launch.
 
-- **[Hermes, Wave 2: The Tests Passed. The Code Was Broken Anyway.](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-2-tests-that-lie.md)**
-  Six defects that a green test suite completely missed, caught by a two-reviewer adversarial gate. A passing test is a claim, not a proof.
