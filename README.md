@@ -48,6 +48,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[Every Status Was Green. Three of Them Were Lying.](https://github.com/Anmoll-W/blog/blob/main/posts/every-status-was-green.md)**
+  A live status line at session boot exposed three silent failures in one day — including a sync job with sixty-six clean exits and zero commits ever pushed. Monitoring that carries proof, not claims.
+
 - **[Append-Only Is Where Lessons Go to Die](https://github.com/Anmoll-W/blog/blob/main/posts/append-only-is-where-lessons-go-to-die.md)**
   933 lines of agent lessons, same mistakes anyway. The overnight learning loop that fixed it: scored lessons, eviction caps, and a reflector that refused to learn from noise.
 
@@ -60,6 +63,4 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 - **[Hermes, Wave 4: Finance Intel From a Server That Cannot See My Finances](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-4-finance-intel-off-server.md)**
   Daily finance intel from a server deliberately blindfolded to every finance file. The math runs locally; only a verdict crosses the wire.
 
-- **[Hermes, Wave 3: A Machine That Drafts From My Notes But Cannot Post](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-3-the-machine-that-drafts.md)**
-  The always-on server starts writing: it drafts from vault signals and by construction cannot post. Three prompt-injection holes caught before launch.
 
