@@ -48,6 +48,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[My AI Agents Got Dumber. It Was Not a Model Downgrade.](https://github.com/Anmoll-W/blog/blob/main/posts/why-my-agents-got-dumber.md)**
+  The agents felt duller — not a model downgrade, three of my own token optimizations turned against me. Blanket-cheap routing, an effort default that thinks less, and a persona file re-read every turn. The fix: right-size the model per task, and reload context only when it was actually evicted.
+
 - **[Every Status Was Green. Three of Them Were Lying.](https://github.com/Anmoll-W/blog/blob/main/posts/every-status-was-green.md)**
   A live status line at session boot exposed three silent failures in one day — including a sync job with sixty-six clean exits and zero commits ever pushed. Monitoring that carries proof, not claims.
 
@@ -59,8 +62,5 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[How My Hermes Agent Works: From a PM's Point of View](https://github.com/Anmoll-W/blog/blob/main/posts/building-a-personal-ai-ops-layer.md)**
   The three-layer architecture behind a personal AI ops system: vault as brain, server as always-on body, built to draft and never publish.
-
-- **[Hermes, Wave 4: Finance Intel From a Server That Cannot See My Finances](https://github.com/Anmoll-W/blog/blob/main/posts/hermes-wave-4-finance-intel-off-server.md)**
-  Daily finance intel from a server deliberately blindfolded to every finance file. The math runs locally; only a verdict crosses the wire.
 
 
