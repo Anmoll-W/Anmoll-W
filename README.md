@@ -4,7 +4,7 @@
 
 I build PM tools and AI-powered products. The kind you can run, not just read about.
 
-Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly users). Now Senior PM at LinkWhisper (808K ARR). Lifted organic CVR from 1.39% to 3.73% (+168%) through full-funnel CRO and AI-native product delivery.
+Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly users). Now Senior PM at LinkWhisper. Lifted organic CVR from 1.39% to 3.73% (+168%) through full-funnel CRO and AI-native product delivery.
 
 8 years in B2B SaaS. MBA (Germany + UK).
 
