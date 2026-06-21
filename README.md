@@ -1,12 +1,12 @@
 <img src="docs/header.png" alt="Building AI Products" width="100%">
 
-# Anmoll Wadhwa
+# PM by title. Builder by choice.
 
 I build PM tools and AI-powered products. The kind you can run, not just read about.
 
 Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly users). Now Senior PM at LinkWhisper (808K ARR). Lifted organic CVR from 1.39% to 3.73% (+168%) through full-funnel CRO and AI-native product delivery.
 
-Spec, prototype, and ship with Claude Code, Lovable, and Cursor. No engineering queue.
+8 years in B2B SaaS. MBA (Germany + UK).
 
 ### Stack I Reach For
 ![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-1e293b?style=flat-square&logo=railway&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-1e293b?style=flat-square&logoColor=white)
