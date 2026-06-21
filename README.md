@@ -2,19 +2,23 @@
 
 # 👋 Hi, I'm Anmoll
 
-I scaled a platform to 90M users.
-I'm still figuring out what great product looks like.
+I build PM tools and AI-powered products — the kind you can run, not just read about.
 
-Senior PM with 8 years building across consumer scale, creator ecosystems, and AI infrastructure. Grew ZZAZZ from 1M to 90M MAU across 70 countries. Now at LinkWhisper, shaping AI-powered SEO products and using Claude Code to spec, build, and ship internal tools without waiting on engineering cycles.
+Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly users). Now Senior PM at LinkWhisper ($808K ARR) — lifted organic CVR from 1.39% to 3.73% (+168%) through full-funnel CRO and AI-native product delivery.
 
-I build Claude Code skills for product managers: runnable tools that go from spec to verdict in one command.
+Spec, prototype, and ship with Claude Code, Lovable, and Cursor — without waiting on the engineering queue.
 
 ### Stack I Reach For
-![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Claude Design](https://img.shields.io/badge/Claude_Design-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-1e293b?style=flat-square&logoColor=white) ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-1e293b?style=flat-square&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-1e293b?style=flat-square&logo=openai&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-1e293b?style=flat-square&logo=google&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-1e293b?style=flat-square&logo=openai&logoColor=white) ![Runway](https://img.shields.io/badge/Runway-1e293b?style=flat-square&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-1e293b?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-1e293b?style=flat-square&logo=jira&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-1e293b?style=flat-square&logo=obsidian&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white) ![Google Stitch](https://img.shields.io/badge/Google_Stitch-1e293b?style=flat-square&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-1e293b?style=flat-square&logo=railway&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-1e293b?style=flat-square&logoColor=white)
 
 ---
 
 ### 🔨 Currently Building
+
+- 🎓 **PM Code** · [thepmcode.com](https://thepmcode.com)
+  **Problem:** Every PM resource sells a framework. The best PMs don't use frameworks — they use judgment.
+  **Building:** A structured PM education library — blog posts, case simulations, and a newsletter for PMs who want to think, not template-match.
+  **Why:** Most PM advice optimizes for interviews. PM Code optimizes for shipping real products.
 
 - 🧰 **prompt-generator-skill**
   **Problem:** Vague prompts force the model to guess tone, structure, and format. Every guess is variance and wasted tokens.
@@ -63,4 +67,8 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 - **[How My Hermes Agent Works: From a PM's Point of View](https://github.com/Anmoll-W/blog/blob/main/posts/building-a-personal-ai-ops-layer.md)**
   The three-layer architecture behind a personal AI ops system: vault as brain, server as always-on body, built to draft and never publish.
 
+---
 
+## Let's connect
+
+[LinkedIn](https://linkedin.com/in/anmollwadhwa) · [Blog](https://anmoll-w.github.io/blog) · anmollwadhwa7@gmail.com
