@@ -1,12 +1,12 @@
 <img src="docs/header.png" alt="Building AI Products" width="100%">
 
-# 👋 Hi, I'm Anmoll
+# Anmoll Wadhwa
 
-I build PM tools and AI-powered products — the kind you can run, not just read about.
+I build PM tools and AI-powered products. The kind you can run, not just read about.
 
-Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly users). Now Senior PM at LinkWhisper ($808K ARR) — lifted organic CVR from 1.39% to 3.73% (+168%) through full-funnel CRO and AI-native product delivery.
+Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly users). Now Senior PM at LinkWhisper (808K ARR). Lifted organic CVR from 1.39% to 3.73% (+168%) through full-funnel CRO and AI-native product delivery.
 
-Spec, prototype, and ship with Claude Code, Lovable, and Cursor — without waiting on the engineering queue.
+Spec, prototype, and ship with Claude Code, Lovable, and Cursor. No engineering queue.
 
 ### Stack I Reach For
 ![Claude Code](https://img.shields.io/badge/Claude_Code-1e293b?style=flat-square&logo=anthropic&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-1e293b?style=flat-square&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1e293b?style=flat-square&logo=cursor&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-1e293b?style=flat-square&logo=railway&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-1e293b?style=flat-square&logoColor=white)
@@ -16,8 +16,8 @@ Spec, prototype, and ship with Claude Code, Lovable, and Cursor — without wait
 ### 🔨 Currently Building
 
 - 🎓 **PM Code** · [thepmcode.com](https://thepmcode.com)
-  **Problem:** Every PM resource sells a framework. The best PMs don't use frameworks — they use judgment.
-  **Building:** A structured PM education library — blog posts, case simulations, and a newsletter for PMs who want to think, not template-match.
+  **Problem:** Every PM resource sells a framework. The best PMs don't use frameworks. They use judgment.
+  **Building:** A structured PM education library: blog posts, case simulations, and a newsletter for PMs who want to think, not template-match.
   **Why:** Most PM advice optimizes for interviews. PM Code optimizes for shipping real products.
 
 - 🧰 **prompt-generator-skill**
@@ -53,10 +53,10 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
 - **[My AI Agents Got Dumber. It Was Not a Model Downgrade.](https://github.com/Anmoll-W/blog/blob/main/posts/why-my-agents-got-dumber.md)**
-  The agents felt duller — not a model downgrade, three of my own token optimizations turned against me. Blanket-cheap routing, an effort default that thinks less, and a persona file re-read every turn. The fix: right-size the model per task, and reload context only when it was actually evicted.
+  The agents felt duller. Not a model downgrade: three of my own token optimizations turned against me. Blanket-cheap routing, an effort default that thinks less, and a persona file re-read every turn. The fix: right-size the model per task, and reload context only when it was actually evicted.
 
 - **[Every Status Was Green. Three of Them Were Lying.](https://github.com/Anmoll-W/blog/blob/main/posts/every-status-was-green.md)**
-  A live status line at session boot exposed three silent failures in one day — including a sync job with sixty-six clean exits and zero commits ever pushed. Monitoring that carries proof, not claims.
+  A live status line at session boot exposed three silent failures in one day, including a sync job with sixty-six clean exits and zero commits ever pushed. Monitoring that carries proof, not claims.
 
 - **[Append-Only Is Where Lessons Go to Die](https://github.com/Anmoll-W/blog/blob/main/posts/append-only-is-where-lessons-go-to-die.md)**
   933 lines of agent lessons, same mistakes anyway. The overnight learning loop that fixed it: scored lessons, eviction caps, and a reflector that refused to learn from noise.
