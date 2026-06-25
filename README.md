@@ -52,6 +52,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[What I Learned Auditing an AI Agent Repository Built by Another Product Manager](https://github.com/Anmoll-W/blog/blob/main/posts/auditing-another-pms-agent-repo.md)**
+  Reading another product manager's agent code is the fastest way to see your own blind spots. The polished layer is where you were comfortable, the model gets used where ordinary code would do, and the tests confirm the machine runs instead of confirming it runs correctly.
+
 - **[My AI Agents Got Dumber. It Was Not a Model Downgrade.](https://github.com/Anmoll-W/blog/blob/main/posts/why-my-agents-got-dumber.md)**
   The agents felt duller. Not a model downgrade: three of my own token optimizations turned against me. Blanket-cheap routing, an effort default that thinks less, and a persona file re-read every turn. The fix: right-size the model per task, and reload context only when it was actually evicted.
 
@@ -63,9 +66,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[Your Agents Are Only as Good as the Context You Program Them With](https://github.com/Anmoll-W/blog/blob/main/posts/context-is-the-program.md)**
   Quality gates that lived in prose instead of code, and the adversarial agents that caught what 28/28 passing tests missed.
-
-- **[How My Hermes Agent Works: From a PM's Point of View](https://github.com/Anmoll-W/blog/blob/main/posts/building-a-personal-ai-ops-layer.md)**
-  The three-layer architecture behind a personal AI ops system: vault as brain, server as always-on body, built to draft and never publish.
 
 ---
 
