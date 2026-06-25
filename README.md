@@ -52,6 +52,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[The Write-Only Trap](https://github.com/Anmoll-W/blog/blob/main/posts/the-write-only-trap.md)**
+  I had a hook capturing every tool call my AI agents made. Nothing was reading it. This post covers the three-piece learning loop that closed the gap: per-runner memory with behavioral handoff, spaced repetition for past mistakes, and an observation synthesis consumer that turns tool-use JSONL into pattern candidates.
+
 - **[What I Learned Auditing an AI Agent Repository Built by Another Product Manager](https://github.com/Anmoll-W/blog/blob/main/posts/auditing-another-pms-agent-repo.md)**
   Reading another product manager's agent code is the fastest way to see your own blind spots. The polished layer is where you were comfortable, the model gets used where ordinary code would do, and the tests confirm the machine runs instead of confirming it runs correctly.
 
@@ -63,9 +66,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[Append-Only Is Where Lessons Go to Die](https://github.com/Anmoll-W/blog/blob/main/posts/append-only-is-where-lessons-go-to-die.md)**
   933 lines of agent lessons, same mistakes anyway. The overnight learning loop that fixed it: scored lessons, eviction caps, and a reflector that refused to learn from noise.
-
-- **[Your Agents Are Only as Good as the Context You Program Them With](https://github.com/Anmoll-W/blog/blob/main/posts/context-is-the-program.md)**
-  Quality gates that lived in prose instead of code, and the adversarial agents that caught what 28/28 passing tests missed.
 
 ---
 
