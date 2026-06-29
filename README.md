@@ -52,6 +52,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[Why I Shut Down Hermes — a Multi-Agent AI System I Built Myself](https://github.com/Anmoll-W/blog/blob/main/posts/why-i-shut-down-hermes.md)**
+  The most sophisticated AI system I built is now offline — not because it broke, but because the maintenance overhead exceeded the value. Five components, a closed feedback loop that never shipped, and a split-brain corruption risk that was real. The honest accounting of why simpler won.
+
 - **[The Write-Only Trap](https://github.com/Anmoll-W/blog/blob/main/posts/the-write-only-trap.md)**
   I had a hook capturing every tool call my AI agents made. Nothing was reading it. This post covers the three-piece learning loop that closed the gap: per-runner memory with behavioral handoff, spaced repetition for past mistakes, and an observation synthesis consumer that turns tool-use JSONL into pattern candidates.
 
@@ -63,9 +66,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[Every Status Was Green. Three of Them Were Lying.](https://github.com/Anmoll-W/blog/blob/main/posts/every-status-was-green.md)**
   A live status line at session boot exposed three silent failures in one day, including a sync job with sixty-six clean exits and zero commits ever pushed. Monitoring that carries proof, not claims.
-
-- **[Append-Only Is Where Lessons Go to Die](https://github.com/Anmoll-W/blog/blob/main/posts/append-only-is-where-lessons-go-to-die.md)**
-  933 lines of agent lessons, same mistakes anyway. The overnight learning loop that fixed it: scored lessons, eviction caps, and a reflector that refused to learn from noise.
 
 ---
 
