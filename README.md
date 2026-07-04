@@ -52,6 +52,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[The Boot Hook That Refired on Every Compaction](https://github.com/Anmoll-W/blog/blob/main/posts/the-boot-hook-that-refired-on-compaction.md)**
+  A 30-day scan of 814 session transcripts found 98 percent of output tokens were thinking and tool calls, not prose — and a session-start hook re-injecting its full boot payload on every compaction. The fix: classify every context surface by how often it fires, not how large it is.
+
 - **[Why I Shut Down Hermes — a Multi-Agent AI System I Built Myself](https://github.com/Anmoll-W/blog/blob/main/posts/why-i-shut-down-hermes.md)**
   The most sophisticated AI system I built is now offline — not because it broke, but because the maintenance overhead exceeded the value. Five components, a closed feedback loop that never shipped, and a split-brain corruption risk that was real. The honest accounting of why simpler won.
 
@@ -63,9 +66,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[My AI Agents Got Dumber. It Was Not a Model Downgrade.](https://github.com/Anmoll-W/blog/blob/main/posts/why-my-agents-got-dumber.md)**
   The agents felt duller. Not a model downgrade: three of my own token optimizations turned against me. Blanket-cheap routing, an effort default that thinks less, and a persona file re-read every turn. The fix: right-size the model per task, and reload context only when it was actually evicted.
-
-- **[Every Status Was Green. Three of Them Were Lying.](https://github.com/Anmoll-W/blog/blob/main/posts/every-status-was-green.md)**
-  A live status line at session boot exposed three silent failures in one day, including a sync job with sixty-six clean exits and zero commits ever pushed. Monitoring that carries proof, not claims.
 
 ---
 
