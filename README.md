@@ -15,6 +15,11 @@ Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly use
 
 ### 🔨 Currently Building
 
+- 🧭 **Layover** · [layover.certifiedlost.com](https://layover.certifiedlost.com)
+  **Problem:** Every daily geography game on the market tests the same thing: map trivia, flags, borders, silhouettes.
+  **Building:** A daily browser puzzle where you wake up in an unknown city and guess it from six clues about what the place feels like, not what it looks like on a map. A Certified Lost sub-brand.
+  **Why it matters:** [→ play today's city](https://layover.certifiedlost.com)
+
 - 🎓 **PM Code** · [thepmcode.com](https://thepmcode.com)
   **Problem:** Every PM resource sells a framework. The best PMs don't use frameworks. They use judgment.
   **Building:** A structured PM education library: blog posts, case simulations, and a newsletter for PMs who want to think, not template-match.
