@@ -17,13 +17,19 @@ Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly use
 
 - 🧭 **Layover** · [layover.certifiedlost.com](https://layover.certifiedlost.com)
   **Problem:** Every daily geography game on the market tests the same thing: map trivia, flags, borders, silhouettes.
-  **Building:** A daily browser puzzle where you wake up in an unknown city and guess it from six clues about what the place feels like, not what it looks like on a map. A Certified Lost sub-brand.
+  **Building:** A daily browser puzzle where you wake up in an unknown city and guess it from six clues about what the place feels like, not what it looks like on a map. A [Certified Lost](https://certifiedlost.com) sub-brand.
   **Why it matters:** [→ play today's city](https://layover.certifiedlost.com)
+
+- 🎒 **Certified Lost** · [certifiedlost.com](https://certifiedlost.com)
+  **Problem:** Travel content optimizes for the postcard shot. The actual experience of a place rarely survives the edit.
+  **Building:** A travel brand about deliberate disorientation. Site, daily game (Layover), and travel stories on [Instagram](https://www.instagram.com/anmoll.w).
+  **Why it matters:** [→ certifiedlost.com](https://certifiedlost.com)
 
 - 🎓 **PM Code** · [thepmcode.com](https://thepmcode.com)
   **Problem:** Every PM resource sells a framework. The best PMs don't use frameworks. They use judgment.
   **Building:** A structured PM education library: blog posts, case simulations, and a newsletter for PMs who want to think, not template-match.
   **Why:** Most PM advice optimizes for interviews. PM Code optimizes for shipping real products.
+  **Newsletter:** [thepmcode.substack.com](https://thepmcode.substack.com)
 
 - 🧰 **prompt-generator-skill**
   **Problem:** Vague prompts force the model to guess tone, structure, and format. Every guess is variance and wasted tokens.
@@ -76,4 +82,4 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 ## Let's connect
 
-[LinkedIn](https://linkedin.com/in/anmollwadhwa) · [Blog](https://anmoll-w.github.io/blog) · anmollwadhwa7@gmail.com
+[LinkedIn](https://linkedin.com/in/anmollwadhwa) · [X](https://x.com/anmoll_w) · [Substack](https://thepmcode.substack.com) · [Instagram](https://www.instagram.com/anmoll.w) · [Blog](https://anmoll-w.github.io/blog) · anmollwadhwa7@gmail.com
