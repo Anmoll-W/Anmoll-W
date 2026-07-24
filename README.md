@@ -82,4 +82,4 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 ## Let's connect
 
-[LinkedIn](https://linkedin.com/in/anmollwadhwa) · [X](https://x.com/anmoll_w) · [Substack](https://thepmcode.substack.com) · [Instagram](https://www.instagram.com/anmoll.w) · [Blog](https://anmoll-w.github.io/blog) · anmollwadhwa7@gmail.com
+[LinkedIn](https://www.linkedin.com/in/anmoll-wadhwa) · [X](https://x.com/anmoll_w) · [Substack](https://thepmcode.substack.com) · [Instagram](https://www.instagram.com/anmoll.w) · [Blog](https://anmoll-w.github.io/blog) · anmollwadhwa7@gmail.com
