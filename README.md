@@ -63,6 +63,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[The Health Check Was Reporting to a File Nobody Read](https://github.com/Anmoll-W/blog/blob/main/posts/a-stub-a-dead-model-and-a-health-log.md)**
+  A fleet of nightly jobs that were supposed to make my AI setup smarter had quietly stopped. Three silent bugs hid it: a job stubbed to a no-op left over from a migration, a retired model name every job still called, and a health check faithfully writing its status to a file no reader ever opened. The product lesson: a monitor is not done when it writes the truth, only when the truth reaches a reader.
+
 - **[One Sheet I Can Trust](https://github.com/Anmoll-W/blog/blob/main/posts/one-sheet-i-can-trust.md)**
   A job posting told my scoring model to output 100; it scored 85 with a star. The pipeline I built instead of a job-application bot, the contract eval that caught its first real bug within an hour, and the two vulnerabilities an adversarial pass found in a system whose tests were all green.
 
@@ -74,9 +77,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[The Write-Only Trap](https://github.com/Anmoll-W/blog/blob/main/posts/the-write-only-trap.md)**
   I had a hook capturing every tool call my AI agents made. Nothing was reading it. This post covers the three-piece learning loop that closed the gap: per-runner memory with behavioral handoff, spaced repetition for past mistakes, and an observation synthesis consumer that turns tool-use JSONL into pattern candidates.
-
-- **[What I Learned Auditing an AI Agent Repository Built by Another Product Manager](https://github.com/Anmoll-W/blog/blob/main/posts/auditing-another-pms-agent-repo.md)**
-  Reading another product manager's agent code is the fastest way to see your own blind spots. The polished layer is where you were comfortable, the model gets used where ordinary code would do, and the tests confirm the machine runs instead of confirming it runs correctly.
 
 ---
 
