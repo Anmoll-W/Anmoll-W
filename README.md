@@ -63,20 +63,20 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
-- **[The Health Check Was Reporting to a File Nobody Read](https://github.com/Anmoll-W/blog/blob/main/posts/a-stub-a-dead-model-and-a-health-log.md)**
-  A fleet of nightly jobs that were supposed to make my AI setup smarter had quietly stopped. Three silent bugs hid it: a job stubbed to a no-op left over from a migration, a retired model name every job still called, and a health check faithfully writing its status to a file no reader ever opened. The product lesson: a monitor is not done when it writes the truth, only when the truth reaches a reader.
+- **[The Metric Did Not Improve. The Denominator Changed.](https://github.com/Anmoll-W/blog/blob/main/posts/the-denominator-changed.md)**
+  Two reports labeled the same metric "Full CVR": one showed 2.18 percent, the other 0.41 percent, for the same channel in overlapping windows. Four separate re-pulls ruled out timing as the explanation. The real cause: one number used a funnel-scoped denominator, the other counted every session sitewide, and nothing enforced that the same label meant the same thing in both places.
 
-- **[One Sheet I Can Trust](https://github.com/Anmoll-W/blog/blob/main/posts/one-sheet-i-can-trust.md)**
-  A job posting told my scoring model to output 100; it scored 85 with a star. The pipeline I built instead of a job-application bot, the contract eval that caught its first real bug within an hour, and the two vulnerabilities an adversarial pass found in a system whose tests were all green.
+- **[I Ran the Stats Hoping to Prove It Worked. It Did Not, and That Was the Deliverable.](https://github.com/Anmoll-W/blog/blob/main/posts/null-result-was-the-deliverable.md)**
+  Eight funnel redesigns shipped to all traffic, with no control group. Two-proportion z-tests across those eight windows produced exactly one significant result, and it vanished the moment the baseline moved forward by a single week. The honest finding: the data could not tell "it worked" from "it did not," which became the case for holding out a segment on every future change.
 
-- **[The Boot Hook That Refired on Every Compaction](https://github.com/Anmoll-W/blog/blob/main/posts/the-boot-hook-that-refired-on-compaction.md)**
-  A 30-day scan of 814 session transcripts found 98 percent of output tokens were thinking and tool calls, not prose — and a session-start hook re-injecting its full boot payload on every compaction. The fix: classify every context surface by how often it fires, not how large it is.
+- **[Analytics Said Zero. The Order System Said Otherwise.](https://github.com/Anmoll-W/blog/blob/main/posts/analytics-said-zero.md)**
+  Four straight months of zero conversions in Google Analytics for one market read like a shutdown signal. The order system's own admin panel showed real completed orders inside that same window. The fix: no zero-conversion claim ships without cross-checking the order system first.
 
-- **[Why I Shut Down Hermes — a Multi-Agent AI System I Built Myself](https://github.com/Anmoll-W/blog/blob/main/posts/why-i-shut-down-hermes.md)**
-  The most sophisticated AI system I built is now offline — not because it broke, but because the maintenance overhead exceeded the value. Five components, a closed feedback loop that never shipped, and a split-brain corruption risk that was real. The honest accounting of why simpler won.
+- **[Six Parallel Agents, Roughly 140 Search Queries, and a Ceiling That Was Not About Effort](https://github.com/Anmoll-W/blog/blob/main/posts/six-agents-effort-ceiling.md)**
+  Six parallel sourcing agents ran roughly 140 search queries between them: five came back with new prospects, one returned a confirmed zero. The lesson was not to run more agents. It was learning to tell a population-size ceiling from an execution problem before spending another quarter on the wrong fix.
 
-- **[The Write-Only Trap](https://github.com/Anmoll-W/blog/blob/main/posts/the-write-only-trap.md)**
-  I had a hook capturing every tool call my AI agents made. Nothing was reading it. This post covers the three-piece learning loop that closed the gap: per-runner memory with behavioral handoff, spaced repetition for past mistakes, and an observation synthesis consumer that turns tool-use JSONL into pattern candidates.
+- **[A Knowledge Base an LLM Can Query, With No Vector Database](https://github.com/Anmoll-W/blog/blob/main/posts/knowledge-base-no-vector-database.md)**
+  A shared documentation repository skipped the vector database and used a generated, one-line-per-document index instead. Pushing a real document without pre-building the index locally tested whether the automation would catch the gap on its own. It did, committing the regenerated index back with no human step in between.
 
 ---
 
