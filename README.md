@@ -63,6 +63,12 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[What the Model Should Not Decide](https://github.com/Anmoll-W/blog/blob/main/posts/what-the-model-should-not-decide.md)**
+  A study-derived piece on scoping AI inside a product: when to route to deterministic code instead of a model, when deleting the model from a decision is the right guardrail rather than an excuse to avoid shipping, an autonomy ladder adapted from the SAE's driving-automation levels, and guardrails sorted into buckets by risk instead of by visibility.
+
+- **[Most AI Builds Start at Step Four. Here Is the Order I Default To.](https://github.com/Anmoll-W/blog/blob/main/posts/the-order-you-build-ai-in.md)**
+  A study-derived piece on the order I default to for anything AI-assisted: customer, problem, workflow, AI, tools, guardrails, metrics, expanded into twelve questions across those seven stages, plus a worked hypothetical showing what skipping straight to the AI or tools stage misses.
+
 - **[The Metric Did Not Improve. The Denominator Changed.](https://github.com/Anmoll-W/blog/blob/main/posts/the-denominator-changed.md)**
   Two reports labeled the same metric "Full CVR": one showed 2.18 percent, the other 0.41 percent, for the same channel in overlapping windows. Four separate re-pulls ruled out timing as the explanation. The real cause: one number used a funnel-scoped denominator, the other counted every session sitewide, and nothing enforced that the same label meant the same thing in both places.
 
@@ -71,12 +77,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[Analytics Said Zero. The Order System Said Otherwise.](https://github.com/Anmoll-W/blog/blob/main/posts/analytics-said-zero.md)**
   Four straight months of zero conversions in Google Analytics for one market read like a shutdown signal. The order system's own admin panel showed real completed orders inside that same window. The fix: no zero-conversion claim ships without cross-checking the order system first.
-
-- **[Six Parallel Agents, Roughly 140 Search Queries, and a Ceiling That Was Not About Effort](https://github.com/Anmoll-W/blog/blob/main/posts/six-agents-effort-ceiling.md)**
-  Six parallel sourcing agents ran roughly 140 search queries between them: five came back with new prospects, one returned a confirmed zero. The lesson was not to run more agents. It was learning to tell a population-size ceiling from an execution problem before spending another quarter on the wrong fix.
-
-- **[A Knowledge Base an LLM Can Query, With No Vector Database](https://github.com/Anmoll-W/blog/blob/main/posts/knowledge-base-no-vector-database.md)**
-  A shared documentation repository skipped the vector database and used a generated, one-line-per-document index instead. Pushing a real document without pre-building the index locally tested whether the automation would catch the gap on its own. It did, committing the regenerated index back with no human step in between.
 
 ---
 
