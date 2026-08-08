@@ -18,12 +18,12 @@ Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly use
 - 🧭 **Layover** · [layover.certifiedlost.com](https://layover.certifiedlost.com)
   **Problem:** Every daily geography game on the market tests the same thing: map trivia, flags, borders, silhouettes.
   **Building:** A daily browser puzzle where you wake up in an unknown city and guess it from six clues about what the place feels like, not what it looks like on a map. A [Certified Lost](https://certifiedlost.com) sub-brand.
-  **Why it matters:** [→ play today's city](https://layover.certifiedlost.com)
+  **Why it matters:** [play today's city](https://layover.certifiedlost.com)
 
 - 🎒 **Certified Lost** · [certifiedlost.com](https://certifiedlost.com)
   **Problem:** Travel content optimizes for the postcard shot. The actual experience of a place rarely survives the edit.
   **Building:** A travel brand about deliberate disorientation. Site, daily game (Layover), and travel stories on [Instagram](https://www.instagram.com/anmoll.w).
-  **Why it matters:** [→ certifiedlost.com](https://certifiedlost.com)
+  **Why it matters:** [certifiedlost.com](https://certifiedlost.com)
 
 - 🎓 **PM Code** · [thepmcode.com](https://thepmcode.com)
   **Problem:** Every PM resource sells a framework. The best PMs don't use frameworks. They use judgment.
@@ -34,17 +34,17 @@ Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly use
 - 🧰 **prompt-generator-skill**
   **Problem:** Vague prompts force the model to guess tone, structure, and format. Every guess is variance and wasted tokens.
   **Built:** Open-source Claude Code skill that turns a role description into a production-ready XML prompt. ~75% token reduction.
-  **Why it matters:** [→ install](https://github.com/Anmoll-W/prompt-generator-skill)
+  **Why it matters:** [install](https://github.com/Anmoll-W/prompt-generator-skill)
 
 - 🧠 **pg-startup-eval**
   **Problem:** AI feedback on startup ideas is encouraging mush. No framework rigor, no forced verdict.
   **Built:** Claude Code skill that runs any idea through 17 investor frameworks (PG, Thiel, Sequoia, Mom Test) and forces a Strong/Weak/Pivot verdict.
-  **Why it matters:** [→ install](https://github.com/Anmoll-W/pg-startup-eval)
+  **Why it matters:** [install](https://github.com/Anmoll-W/pg-startup-eval)
 
 - 🤖 **AI support automation**
   **Problem:** LinkWhisper support tickets required manual triage and back-and-forth that didn't scale.
   **Built:** Claude-powered workflows that cut ticket resolution effort 50%.
-  **Why it matters:** [→ build story](https://github.com/Anmoll-W/blog)
+  **Why it matters:** [build story](https://github.com/Anmoll-W/blog)
 
 ---
 
