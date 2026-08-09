@@ -63,6 +63,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[The Guard I Built, Measured, and Deleted](https://github.com/Anmoll-W/blog/blob/main/posts/the-guard-i-measured-and-deleted.md)**
+  A safety check compared each Substack draft's title against the image filename about to attach to it, meant to catch the one failure no other check could: the wrong image on the wrong post. Measured against 152 real rows before being trusted, it flagged 111 correct rows as mismatches. Wrong 73 percent of the time, it was deleted the same day and replaced with a read-only preflight readout for a human to check instead.
+
 - **[What the Model Should Not Decide](https://github.com/Anmoll-W/blog/blob/main/posts/what-the-model-should-not-decide.md)**
   A study-derived piece on scoping AI inside a product: when to route to deterministic code instead of a model, when deleting the model from a decision is the right guardrail rather than an excuse to avoid shipping, an autonomy ladder adapted from the SAE's driving-automation levels, and guardrails sorted into buckets by risk instead of by visibility.
 
@@ -74,9 +77,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[I Ran the Stats Hoping to Prove It Worked. It Did Not, and That Was the Deliverable.](https://github.com/Anmoll-W/blog/blob/main/posts/null-result-was-the-deliverable.md)**
   Eight funnel redesigns shipped to all traffic, with no control group. Two-proportion z-tests across those eight windows produced exactly one significant result, and it vanished the moment the baseline moved forward by a single week. The honest finding: the data could not tell "it worked" from "it did not," which became the case for holding out a segment on every future change.
-
-- **[Analytics Said Zero. The Order System Said Otherwise.](https://github.com/Anmoll-W/blog/blob/main/posts/analytics-said-zero.md)**
-  Four straight months of zero conversions in Google Analytics for one market read like a shutdown signal. The order system's own admin panel showed real completed orders inside that same window. The fix: no zero-conversion claim ships without cross-checking the order system first.
 
 ---
 
