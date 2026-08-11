@@ -69,14 +69,14 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 - **[My Agents Were Calling Skills That Did Not Exist](https://github.com/Anmoll-W/blog/blob/main/posts/agents-calling-skills-that-do-not-exist.md)**
   A free-choice test showed no agent ever selected a skill I had just written, so I checked whether the rest were reachable at all. Forty-one skill names declared across persona and agent files resolved to nothing on disk, plus three more in the routing table that injects them into prompts. The checker produced false positives twice before it was worth trusting, and usage telemetry, not absence on disk, decided which dead routes were debt and which were losses.
 
+- **[The Eval Was Grading My Config, Not My Skill](https://github.com/Anmoll-W/blog/blob/main/posts/the-eval-was-grading-my-config.md)**
+  A release-gate fixture failed on a banned character the skill had never written. The character came from my own Claude Code settings, which the harness was feeding into every graded prompt: 5,651 injected characters inside an 18,134 character prompt, so 31 percent of what the judge scored was my configuration rather than the thing under test. Isolating the harness then revealed the larger problem. Fixtures flip verdict at 27 percent on a byte-identical file, which puts the release gate itself inside the noise band, and the fix was majority voting rather than a stricter bar.
+
 - **[The Guard I Built, Measured, and Deleted](https://github.com/Anmoll-W/blog/blob/main/posts/the-guard-i-measured-and-deleted.md)**
   A safety check compared each Substack draft's title against the image filename about to attach to it, meant to catch the one failure no other check could: the wrong image on the wrong post. Measured against 152 real rows before being trusted, it flagged 111 correct rows as mismatches. Wrong 73 percent of the time, it was deleted the same day and replaced with a read-only preflight readout for a human to check instead.
 
 - **[What the Model Should Not Decide](https://github.com/Anmoll-W/blog/blob/main/posts/what-the-model-should-not-decide.md)**
   A study-derived piece on scoping AI inside a product: when to route to deterministic code instead of a model, when deleting the model from a decision is the right guardrail rather than an excuse to avoid shipping, an autonomy ladder adapted from the SAE's driving-automation levels, and guardrails sorted into buckets by risk instead of by visibility.
-
-- **[Most AI Builds Start at Step Four. Here Is the Order I Default To.](https://github.com/Anmoll-W/blog/blob/main/posts/the-order-you-build-ai-in.md)**
-  A study-derived piece on the order I default to for anything AI-assisted: customer, problem, workflow, AI, tools, guardrails, metrics, expanded into twelve questions across those seven stages, plus a worked hypothetical showing what skipping straight to the AI or tools stage misses.
 
 ---
 
