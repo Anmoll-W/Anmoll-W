@@ -63,6 +63,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[A Real Problem Is Not a Reason to Build](https://github.com/Anmoll-W/blog/blob/main/posts/a-real-problem-is-not-a-reason-to-build.md)**
+  I proposed moving one of my own tools to a different folder, and the mode I had just finished writing recommended deleting it instead. It grades evidence twice, separately: does the pain exist, and has anyone tested that this fix moves that behaviour. The tool recorded two invocations ever, its routing table pointed at relationships that had ended, and its mandated capture ritual had zero entries across thirteen files. Then it refused to authorise the replacement I wanted, because a confirmed pain with an untested fix is a candidate, not a build.
+
 - **[My Agents Were Calling Skills That Did Not Exist](https://github.com/Anmoll-W/blog/blob/main/posts/agents-calling-skills-that-do-not-exist.md)**
   A free-choice test showed no agent ever selected a skill I had just written, so I checked whether the rest were reachable at all. Forty-one skill names declared across persona and agent files resolved to nothing on disk, plus three more in the routing table that injects them into prompts. The checker produced false positives twice before it was worth trusting, and usage telemetry, not absence on disk, decided which dead routes were debt and which were losses.
 
@@ -74,9 +77,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[Most AI Builds Start at Step Four. Here Is the Order I Default To.](https://github.com/Anmoll-W/blog/blob/main/posts/the-order-you-build-ai-in.md)**
   A study-derived piece on the order I default to for anything AI-assisted: customer, problem, workflow, AI, tools, guardrails, metrics, expanded into twelve questions across those seven stages, plus a worked hypothetical showing what skipping straight to the AI or tools stage misses.
-
-- **[The Metric Did Not Improve. The Denominator Changed.](https://github.com/Anmoll-W/blog/blob/main/posts/the-denominator-changed.md)**
-  Two reports labeled the same metric "Full CVR": one showed 2.18 percent, the other 0.41 percent, for the same channel in overlapping windows. Four separate re-pulls ruled out timing as the explanation. The real cause: one number used a funnel-scoped denominator, the other counted every session sitewide, and nothing enforced that the same label meant the same thing in both places.
 
 ---
 
