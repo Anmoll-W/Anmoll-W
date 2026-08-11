@@ -63,6 +63,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[My Agents Were Calling Skills That Did Not Exist](https://github.com/Anmoll-W/blog/blob/main/posts/agents-calling-skills-that-do-not-exist.md)**
+  A free-choice test showed no agent ever selected a skill I had just written, so I checked whether the rest were reachable at all. Forty-one skill names declared across persona and agent files resolved to nothing on disk, plus three more in the routing table that injects them into prompts. The checker produced false positives twice before it was worth trusting, and usage telemetry, not absence on disk, decided which dead routes were debt and which were losses.
+
 - **[The Guard I Built, Measured, and Deleted](https://github.com/Anmoll-W/blog/blob/main/posts/the-guard-i-measured-and-deleted.md)**
   A safety check compared each Substack draft's title against the image filename about to attach to it, meant to catch the one failure no other check could: the wrong image on the wrong post. Measured against 152 real rows before being trusted, it flagged 111 correct rows as mismatches. Wrong 73 percent of the time, it was deleted the same day and replaced with a read-only preflight readout for a human to check instead.
 
@@ -74,9 +77,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[The Metric Did Not Improve. The Denominator Changed.](https://github.com/Anmoll-W/blog/blob/main/posts/the-denominator-changed.md)**
   Two reports labeled the same metric "Full CVR": one showed 2.18 percent, the other 0.41 percent, for the same channel in overlapping windows. Four separate re-pulls ruled out timing as the explanation. The real cause: one number used a funnel-scoped denominator, the other counted every session sitewide, and nothing enforced that the same label meant the same thing in both places.
-
-- **[I Ran the Stats Hoping to Prove It Worked. It Did Not, and That Was the Deliverable.](https://github.com/Anmoll-W/blog/blob/main/posts/null-result-was-the-deliverable.md)**
-  Eight funnel redesigns shipped to all traffic, with no control group. Two-proportion z-tests across those eight windows produced exactly one significant result, and it vanished the moment the baseline moved forward by a single week. The honest finding: the data could not tell "it worked" from "it did not," which became the case for holding out a segment on every future change.
 
 ---
 
