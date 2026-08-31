@@ -31,15 +31,10 @@ Scaled ZZAZZ from 25 to 10,000+ publishers across 70 countries (90M+ monthly use
   **Why:** Most PM advice optimizes for interviews. PM Code optimizes for shipping real products.
   **Newsletter:** [thepmcode.substack.com](https://thepmcode.substack.com)
 
-- 🧰 **prompt-generator-skill**
-  **Problem:** Vague prompts force the model to guess tone, structure, and format. Every guess is variance and wasted tokens.
-  **Built:** Open-source Claude Code skill that turns a role description into a production-ready XML prompt. ~75% token reduction.
-  **Why it matters:** [install](https://github.com/Anmoll-W/prompt-generator-skill)
-
-- 🧠 **pg-startup-eval**
-  **Problem:** AI feedback on startup ideas is encouraging mush. No framework rigor, no forced verdict.
-  **Built:** Claude Code skill that runs any idea through 17 investor frameworks (PG, Thiel, Sequoia, Mom Test) and forces a Strong/Weak/Pivot verdict.
-  **Why it matters:** [install](https://github.com/Anmoll-W/pg-startup-eval)
+- 🧰 **The PM Code Skills** · [thepmcode-skills](https://github.com/Anmoll-W/thepmcode-skills)
+  **Problem:** Most AI skills either flatter you or hide how they reached an answer. Neither is safe to repeat in a room where you will be challenged.
+  **Built:** An open-source hub of seven Claude Code skills. Decode what an engineer just said, pressure-test a decision before you commit, evaluate a startup idea to a forced verdict, review code and design against real rules, generate structured prompts, and turn finished work into a spaced curriculum. Every mode names itself, sources every claim, and degrades honestly.
+  **Why it matters:** [browse the skills](https://github.com/Anmoll-W/thepmcode-skills)
 
 - 🤖 **AI support automation**
   **Problem:** LinkWhisper support tickets required manual triage and back-and-forth that didn't scale.
