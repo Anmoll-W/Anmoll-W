@@ -63,6 +63,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[The Detector Scored Who Wrote It, Not How It Was Written](https://github.com/Anmoll-W/blog/blob/main/posts/who-wrote-it-not-how-it-was-written.md)**
+  I spent ten credits on the AI detector Substack runs to find out why my drafts kept reading as a machine. A piece engineered to look human scored one hundred percent AI, while an Orwell paragraph from 1946 scored one hundred percent human, so the detector was grading who wrote the sentences, not how they were styled. Rewording three of eight human sentences with the model flipped the verdict to seventy-four percent AI, one in eight stayed clean, and the takeaway was to keep authorship human on any surface that scores you instead of chasing a styling trick.
+
 - **[A Real Problem Is Not a Reason to Build](https://github.com/Anmoll-W/blog/blob/main/posts/a-real-problem-is-not-a-reason-to-build.md)**
   I proposed moving one of my own tools to a different folder, and the mode I had just finished writing recommended deleting it instead. It grades evidence twice, separately: does the pain exist, and has anyone tested that this fix moves that behaviour. The tool recorded two invocations ever, its routing table pointed at relationships that had ended, and its mandated capture ritual had zero entries across thirteen files. Then it refused to authorise the replacement I wanted, because a confirmed pain with an untested fix is a candidate, not a build.
 
@@ -74,9 +77,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[The Guard I Built, Measured, and Deleted](https://github.com/Anmoll-W/blog/blob/main/posts/the-guard-i-measured-and-deleted.md)**
   A safety check compared each Substack draft's title against the image filename about to attach to it, meant to catch the one failure no other check could: the wrong image on the wrong post. Measured against 152 real rows before being trusted, it flagged 111 correct rows as mismatches. Wrong 73 percent of the time, it was deleted the same day and replaced with a read-only preflight readout for a human to check instead.
-
-- **[What the Model Should Not Decide](https://github.com/Anmoll-W/blog/blob/main/posts/what-the-model-should-not-decide.md)**
-  A study-derived piece on scoping AI inside a product: when to route to deterministic code instead of a model, when deleting the model from a decision is the right guardrail rather than an excuse to avoid shipping, an autonomy ladder adapted from the SAE's driving-automation levels, and guardrails sorted into buckets by risk instead of by visibility.
 
 ---
 
