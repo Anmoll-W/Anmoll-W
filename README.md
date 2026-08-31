@@ -58,6 +58,9 @@ Product specs and strategies from zero-to-one problems. Each one is a full PM ar
 
 I distill working sessions into posts on systems, silent bugs, and shipping with AI tools. Every post comes from something that actually happened.
 
+- **[Seven Skills That Have to Show Their Work](https://github.com/Anmoll-W/blog/blob/main/posts/seven-skills-that-show-their-work.md)**
+  I built one small tool for the meeting I did not follow, then six more for the moments like it, and this week I put all seven in one open-source hub for Claude Code. Every skill names the mode it is running before it says anything, sources each claim it makes, and admits plainly when it checked nothing, because a confident guess and a researched answer read identically on the screen. The decoder is graded by an adversarial suite of thirty-three fixtures, each built to make it fail one specific way. This post walks each skill and who it helps, from decoding a standup to pressure-testing a whole business.
+
 - **[The Detector Scored Who Wrote It, Not How It Was Written](https://github.com/Anmoll-W/blog/blob/main/posts/who-wrote-it-not-how-it-was-written.md)**
   I spent ten credits on the AI detector Substack runs to find out why my drafts kept reading as a machine. A piece engineered to look human scored one hundred percent AI, while an Orwell paragraph from 1946 scored one hundred percent human, so the detector was grading who wrote the sentences, not how they were styled. Rewording three of eight human sentences with the model flipped the verdict to seventy-four percent AI, one in eight stayed clean, and the takeaway was to keep authorship human on any surface that scores you instead of chasing a styling trick.
 
@@ -69,9 +72,6 @@ I distill working sessions into posts on systems, silent bugs, and shipping with
 
 - **[The Eval Was Grading My Config, Not My Skill](https://github.com/Anmoll-W/blog/blob/main/posts/the-eval-was-grading-my-config.md)**
   A release-gate fixture failed on a banned character the skill had never written. The character came from my own Claude Code settings, which the harness was feeding into every graded prompt: 5,651 injected characters inside an 18,134 character prompt, so 31 percent of what the judge scored was my configuration rather than the thing under test. Isolating the harness then revealed the larger problem. Fixtures flip verdict at 27 percent on a byte-identical file, which puts the release gate itself inside the noise band, and the fix was majority voting rather than a stricter bar.
-
-- **[The Guard I Built, Measured, and Deleted](https://github.com/Anmoll-W/blog/blob/main/posts/the-guard-i-measured-and-deleted.md)**
-  A safety check compared each Substack draft's title against the image filename about to attach to it, meant to catch the one failure no other check could: the wrong image on the wrong post. Measured against 152 real rows before being trusted, it flagged 111 correct rows as mismatches. Wrong 73 percent of the time, it was deleted the same day and replaced with a read-only preflight readout for a human to check instead.
 
 ---
 
